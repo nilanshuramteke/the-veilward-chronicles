@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*248 markdown files across 28 folders. Auto-generated — regenerate after adding or renaming files.*
+*256 markdown files across 29 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
 
 
 - **00_CORE/**
@@ -143,6 +143,14 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [claude-drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/claude-drafting-brief.md)
         - [continuity-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/continuity-handoff.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/scene-breakdown.md)
+      - **CHAPTER_02/**
+        - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/README.md)
+        - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/canon-constraints.md)
+        - [chapter-01-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/chapter-01-continuity-input.md)
+        - [chapter-02-audit-checklist.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/chapter-02-audit-checklist.md)
+        - [chapter-02-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/chapter-02-blueprint.md)
+        - [claude-drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/claude-drafting-brief.md)
+        - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/scene-breakdown.md)
     - **06_ENDING/**
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
       - [climax-blueprint.md](08_BOOKS/BOOK_01/06_ENDING/climax-blueprint.md)
@@ -196,6 +204,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
     - [trilogy-continuity.md](08_BOOKS/BOOK_03/trilogy-continuity.md)
     - [world-transformation.md](08_BOOKS/BOOK_03/world-transformation.md)
 - **09_MANUSCRIPTS/**
+  - *(gitignored — manuscript drafts stay local-only, not tracked in this repo)*
   - **BOOK_01/**
   - **BOOK_02/**
   - **BOOK_03/**
@@ -213,6 +222,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [knowledge-tracker.md](10_TRACKERS/knowledge-tracker.md)
   - [location-tracker.md](10_TRACKERS/location-tracker.md)
   - [magic-usage-tracker.md](10_TRACKERS/magic-usage-tracker.md)
+  - [manuscript-status.md](10_TRACKERS/manuscript-status.md)
   - [mystery-tracker.md](10_TRACKERS/mystery-tracker.md)
   - [open-loops-tracker.md](10_TRACKERS/open-loops-tracker.md)
   - [promise-payoff-tracker.md](10_TRACKERS/promise-payoff-tracker.md)
