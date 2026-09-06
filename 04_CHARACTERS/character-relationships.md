@@ -7,17 +7,23 @@
 
 This file tracks important character relationships and prevents continuity errors.
 
-## Central Relationship
+Detailed relationship development belongs in dedicated relationship files. This document records continuity-level status and cross-character connections.
+
+---
+
+# Central Relationship
 
 ### Aurelia ↔ Aarav
 
-**Status at series beginning:** Rivals / enemies
+**Status at series beginning:** Rivals
 
-**Development path:**
+**Canonical development:**
 
-Rivalry → Cooperation → Friendship → Trust → Love
+**Rivals → Forced Cooperation → Respect → Trust → Friendship → Emotional Intimacy → Love → Conscious Commitment**
 
-**Core rule:** Their relationship is based on choice and mutual growth.
+**Detailed authority:** `04_CHARACTERS/relationship-aurelia-and-aarav.md`
+
+**Core rule:** Their relationship is based on choice, mutual growth, trust, and earned emotional intimacy.
 
 ---
 
@@ -27,7 +33,13 @@ Rivalry → Cooperation → Friendship → Trust → Love
 
 **Status:** Historically significant / incomplete
 
-Their complete relationship is intentionally protected until the Serpentfire history is developed.
+Their complete relationship history is intentionally protected.
+
+Reader-facing revelations must follow:
+
+`07_SERIES_BLUEPRINT/revelation-matrix.md`
+
+Author-only truth remains governed by the appropriate author canon files.
 
 ---
 
@@ -49,10 +61,14 @@ Use this format for future characters:
 
 **Future Direction:**
 
+**Canon Authority:**
+
 ---
 
 # Continuity Rule
 
 A relationship cannot change significantly off-page without explanation unless deliberate narrative mystery requires it.
+
+Where a dedicated relationship file exists, that file is the primary authority for the relationship's detailed progression.
 
 > **Relationships are stories unfolding between people.**
