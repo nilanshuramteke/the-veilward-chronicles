@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*240 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
+*241 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
 
 
 - **00_CORE/**
@@ -253,6 +253,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [research-sources.md](12_RESEARCH/research-sources.md)
 - **13_REVIEWS_AND_AUDITS/**
   - [README.md](13_REVIEWS_AND_AUDITS/README.md)
+  - [book-01-final-pre-drafting-readiness-audit.md](13_REVIEWS_AND_AUDITS/book-01-final-pre-drafting-readiness-audit.md)
   - [book-01-mystery-architecture-audit.md](13_REVIEWS_AND_AUDITS/book-01-mystery-architecture-audit.md)
   - [book-01-review.md](13_REVIEWS_AND_AUDITS/book-01-review.md)
   - [book-02-review.md](13_REVIEWS_AND_AUDITS/book-02-review.md)
