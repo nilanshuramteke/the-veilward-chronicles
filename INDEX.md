@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*235 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
+*240 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
 
 
 - **00_CORE/**
@@ -113,11 +113,14 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
       - [pacing-plan.md](08_BOOKS/BOOK_01/01_PLOT/pacing-plan.md)
       - [plot-blueprint.md](08_BOOKS/BOOK_01/01_PLOT/plot-blueprint.md)
     - **02_MYSTERY/**
+      - [false-lead-intruder-theory.md](08_BOOKS/BOOK_01/02_MYSTERY/false-lead-intruder-theory.md)
       - [final-revelation.md](08_BOOKS/BOOK_01/02_MYSTERY/final-revelation.md)
       - [first-ember.md](08_BOOKS/BOOK_01/02_MYSTERY/first-ember.md)
       - [impossible-breach-mystery.md](08_BOOKS/BOOK_01/02_MYSTERY/impossible-breach-mystery.md)
       - [mystery-clue-map.md](08_BOOKS/BOOK_01/02_MYSTERY/mystery-clue-map.md)
+      - [recurring-symbol.md](08_BOOKS/BOOK_01/02_MYSTERY/recurring-symbol.md)
       - [the-echo.md](08_BOOKS/BOOK_01/02_MYSTERY/the-echo.md)
+      - [unknown-student-thread.md](08_BOOKS/BOOK_01/02_MYSTERY/unknown-student-thread.md)
     - **03_CHARACTER_ARCS/**
       - [aarav-book-arc.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/aarav-book-arc.md)
       - [aurelia-book-arc.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/aurelia-book-arc.md)
@@ -125,6 +128,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
       - [supporting-cast.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/supporting-cast.md)
     - **04_WORLD_AND_LOCATIONS/**
       - [academy-life.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/academy-life.md)
+      - [book-01-magic-usage-lock.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/book-01-magic-usage-lock.md)
       - [book-one-locations.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/book-one-locations.md)
       - [hidden-chamber.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/hidden-chamber.md)
     - **05_CHAPTERS/**
@@ -249,6 +253,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [research-sources.md](12_RESEARCH/research-sources.md)
 - **13_REVIEWS_AND_AUDITS/**
   - [README.md](13_REVIEWS_AND_AUDITS/README.md)
+  - [book-01-mystery-architecture-audit.md](13_REVIEWS_AND_AUDITS/book-01-mystery-architecture-audit.md)
   - [book-01-review.md](13_REVIEWS_AND_AUDITS/book-01-review.md)
   - [book-02-review.md](13_REVIEWS_AND_AUDITS/book-02-review.md)
   - [book-03-review.md](13_REVIEWS_AND_AUDITS/book-03-review.md)
