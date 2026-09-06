@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*241 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
+*248 markdown files across 28 folders. Auto-generated — regenerate after adding or renaming files.*
 
 
 - **00_CORE/**
@@ -135,6 +135,14 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
       - [chapter-continuity-tracker.md](08_BOOKS/BOOK_01/05_CHAPTERS/chapter-continuity-tracker.md)
       - [chapter-outline.md](08_BOOKS/BOOK_01/05_CHAPTERS/chapter-outline.md)
       - [chapter-overview.md](08_BOOKS/BOOK_01/05_CHAPTERS/chapter-overview.md)
+      - **CHAPTER_01/**
+        - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/README.md)
+        - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/canon-constraints.md)
+        - [chapter-01-audit-checklist.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/chapter-01-audit-checklist.md)
+        - [chapter-01-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/chapter-01-blueprint.md)
+        - [claude-drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/claude-drafting-brief.md)
+        - [continuity-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/continuity-handoff.md)
+        - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_01/scene-breakdown.md)
     - **06_ENDING/**
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
       - [climax-blueprint.md](08_BOOKS/BOOK_01/06_ENDING/climax-blueprint.md)
