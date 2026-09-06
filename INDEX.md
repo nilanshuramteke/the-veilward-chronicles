@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*230 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
+*235 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
 
 
 - **00_CORE/**
@@ -50,10 +50,15 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [character-development-tracker.md](04_CHARACTERS/character-development-tracker.md)
   - [character-directory.md](04_CHARACTERS/character-directory.md)
   - [character-relationships.md](04_CHARACTERS/character-relationships.md)
+  - [dev.md](04_CHARACTERS/dev.md)
   - [elyra.md](04_CHARACTERS/elyra.md)
+  - [lyra.md](04_CHARACTERS/lyra.md)
+  - [mira.md](04_CHARACTERS/mira.md)
+  - [professor-elian-voss.md](04_CHARACTERS/professor-elian-voss.md)
   - [relationship-aurelia-and-aarav.md](04_CHARACTERS/relationship-aurelia-and-aarav.md)
   - [supporting-character-framework.md](04_CHARACTERS/supporting-character-framework.md)
   - [varun.md](04_CHARACTERS/varun.md)
+  - [warden-seraphine.md](04_CHARACTERS/warden-seraphine.md)
 - **05_LORE_AND_HISTORY/**
   - [ancient-history.md](05_LORE_AND_HISTORY/ancient-history.md)
   - [elyra-and-varun-history.md](05_LORE_AND_HISTORY/elyra-and-varun-history.md)
