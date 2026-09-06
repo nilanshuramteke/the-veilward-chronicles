@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*198 markdown files across 26 folders. Auto-generated — regenerate after adding or renaming files.*
+*226 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
 
 
 - **00_CORE/**
@@ -177,6 +177,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
     - [trilogy-continuity.md](08_BOOKS/BOOK_03/trilogy-continuity.md)
     - [world-transformation.md](08_BOOKS/BOOK_03/world-transformation.md)
 - **09_MANUSCRIPTS/**
+  - *(empty — manuscript drafts go here)*
   - **BOOK_01/**
     - *(empty — manuscript drafts go here)*
   - **BOOK_02/**
@@ -231,3 +232,32 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [species-canon.md](11_CANON/species-canon.md)
   - [timeline-canon.md](11_CANON/timeline-canon.md)
   - [world-canon.md](11_CANON/world-canon.md)
+- **12_RESEARCH/**
+  - [README.md](12_RESEARCH/README.md)
+  - [cultural-research.md](12_RESEARCH/cultural-research.md)
+  - [geography-and-environment.md](12_RESEARCH/geography-and-environment.md)
+  - [historical-research.md](12_RESEARCH/historical-research.md)
+  - [inspiration-notes.md](12_RESEARCH/inspiration-notes.md)
+  - [language-and-etymology.md](12_RESEARCH/language-and-etymology.md)
+  - [mythology-and-folklore.md](12_RESEARCH/mythology-and-folklore.md)
+  - [research-decisions.md](12_RESEARCH/research-decisions.md)
+  - [research-questions.md](12_RESEARCH/research-questions.md)
+  - [research-sources.md](12_RESEARCH/research-sources.md)
+- **13_REVIEWS_AND_AUDITS/**
+  - [README.md](13_REVIEWS_AND_AUDITS/README.md)
+  - [book-01-review.md](13_REVIEWS_AND_AUDITS/book-01-review.md)
+  - [book-02-review.md](13_REVIEWS_AND_AUDITS/book-02-review.md)
+  - [book-03-review.md](13_REVIEWS_AND_AUDITS/book-03-review.md)
+  - [chapter-audit-template.md](13_REVIEWS_AND_AUDITS/chapter-audit-template.md)
+  - [character-arc-audit.md](13_REVIEWS_AND_AUDITS/character-arc-audit.md)
+  - [continuity-audit.md](13_REVIEWS_AND_AUDITS/continuity-audit.md)
+  - [ending-audit.md](13_REVIEWS_AND_AUDITS/ending-audit.md)
+  - [magic-system-audit.md](13_REVIEWS_AND_AUDITS/magic-system-audit.md)
+  - [mystery-audit.md](13_REVIEWS_AND_AUDITS/mystery-audit.md)
+  - [pre-drafting-readiness-audit.md](13_REVIEWS_AND_AUDITS/pre-drafting-readiness-audit.md)
+  - [reader-expectation-audit.md](13_REVIEWS_AND_AUDITS/reader-expectation-audit.md)
+  - [revision-priority-audit.md](13_REVIEWS_AND_AUDITS/revision-priority-audit.md)
+  - [story-bible-integrity-audit.md](13_REVIEWS_AND_AUDITS/story-bible-integrity-audit.md)
+  - [timeline-audit.md](13_REVIEWS_AND_AUDITS/timeline-audit.md)
+  - [trilogy-structure-audit.md](13_REVIEWS_AND_AUDITS/trilogy-structure-audit.md)
+  - [worldbuilding-audit.md](13_REVIEWS_AND_AUDITS/worldbuilding-audit.md)
