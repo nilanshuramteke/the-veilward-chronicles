@@ -1,0 +1,3 @@
+# Manuscript drafts stay local only — never pushed to the remote.
+*
+!.gitignore
