@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*226 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
+*230 markdown files across 27 folders. Auto-generated — regenerate after adding or renaming files.*
 
 
 - **00_CORE/**
@@ -86,6 +86,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [major-mysteries.md](07_SERIES_BLUEPRINT/major-mysteries.md)
   - [major-turning-points.md](07_SERIES_BLUEPRINT/major-turning-points.md)
   - [outer-dark-series-arc.md](07_SERIES_BLUEPRINT/outer-dark-series-arc.md)
+  - [revelation-matrix.md](07_SERIES_BLUEPRINT/revelation-matrix.md)
   - [romance-series-arc.md](07_SERIES_BLUEPRINT/romance-series-arc.md)
   - [series-arc.md](07_SERIES_BLUEPRINT/series-arc.md)
   - [serpentfire-series-arc.md](07_SERIES_BLUEPRINT/serpentfire-series-arc.md)
@@ -94,6 +95,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
 - **08_BOOKS/**
   - **BOOK_01/**
     - [README.md](08_BOOKS/BOOK_01/README.md)
+    - [book-01-canon-lock.md](08_BOOKS/BOOK_01/book-01-canon-lock.md)
     - **00_BOOK_FOUNDATION/**
       - [book-one-continuity.md](08_BOOKS/BOOK_01/00_BOOK_FOUNDATION/book-one-continuity.md)
       - [book-overview.md](08_BOOKS/BOOK_01/00_BOOK_FOUNDATION/book-overview.md)
@@ -177,13 +179,9 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
     - [trilogy-continuity.md](08_BOOKS/BOOK_03/trilogy-continuity.md)
     - [world-transformation.md](08_BOOKS/BOOK_03/world-transformation.md)
 - **09_MANUSCRIPTS/**
-  - *(empty — manuscript drafts go here)*
   - **BOOK_01/**
-    - *(empty — manuscript drafts go here)*
   - **BOOK_02/**
-    - *(empty — manuscript drafts go here)*
   - **BOOK_03/**
-    - *(empty — manuscript drafts go here)*
 - **10_TRACKERS/**
   - [README.md](10_TRACKERS/README.md)
   - [artifact-tracker.md](10_TRACKERS/artifact-tracker.md)
@@ -215,6 +213,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [book-02-established-canon.md](11_CANON/book-02-established-canon.md)
   - [book-03-established-canon.md](11_CANON/book-03-established-canon.md)
   - [canon-audit-checklist.md](11_CANON/canon-audit-checklist.md)
+  - [canon-authority-matrix.md](11_CANON/canon-authority-matrix.md)
   - [canon-change-log.md](11_CANON/canon-change-log.md)
   - [canon-conflicts.md](11_CANON/canon-conflicts.md)
   - [canon-glossary.md](11_CANON/canon-glossary.md)
@@ -248,6 +247,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [book-01-review.md](13_REVIEWS_AND_AUDITS/book-01-review.md)
   - [book-02-review.md](13_REVIEWS_AND_AUDITS/book-02-review.md)
   - [book-03-review.md](13_REVIEWS_AND_AUDITS/book-03-review.md)
+  - [canon-consolidation-log.md](13_REVIEWS_AND_AUDITS/canon-consolidation-log.md)
   - [chapter-audit-template.md](13_REVIEWS_AND_AUDITS/chapter-audit-template.md)
   - [character-arc-audit.md](13_REVIEWS_AND_AUDITS/character-arc-audit.md)
   - [continuity-audit.md](13_REVIEWS_AND_AUDITS/continuity-audit.md)
