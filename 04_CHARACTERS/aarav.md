@@ -1,111 +1,36 @@
 # Aarav
 
-> **Document Type:** Primary Character Bible
-> **Canon Status:** CORE CHARACTER CANON
+## Canon Status
+CONFIRMED primary character. Detailed future-book development may remain protected.
 
-## Identity
+## Core Function
+Aarav is one of the trilogy's two primary viewpoints and a complementary emotional lens to Aurelia.
 
-**Name:** Aarav  
-**Species:** Naga  
-**Gender:** Male  
-**Role:** Primary protagonist  
-**Academy:** Veilward Academy
+## Opening Relationship to Aurelia
+Aarav begins as Aurelia's **rival**, not her enemy.
 
-## Core Concept
+Their conflict grows from:
+- competition,
+- assumptions,
+- personality differences,
+- conflicting methods,
+- difficulty trusting one another.
 
-Aarav is not defined by silence, mystery, or ancient wisdom.
-
-He is a young Naga learning that careful control can become another way of hiding.
-
-## Personality Direction
-
-Aarav is:
-
-- Observant
-- Intelligent
-- Patient when he chooses to be
-- Dryly humorous
-- Loyal
-- Occasionally frustratingly guarded
-
-## Central Internal Conflict
-
-Aarav values control.
-
-He fears what may happen when emotion, expectation, or responsibility overwhelms his ability to remain composed.
-
-His arc explores:
-
-- Control versus honesty
-- Patience versus avoidance
-- Independence versus connection
-
-## Mortal Form
-
-Aarav has one permanent Mortal Form.
-
-His face and human identity remain his own.
-
-## True Form
-
-His Naga True Form reflects serpentine identity and individual variation.
-
-Detailed visual design remains open.
-
-## Relationship with Aurelia
-
-### Beginning
-Aurelia and Aarav begin as rivals.
-
-Neither should be entirely correct about the other.
-
-### Development
-Enemies → reluctant cooperation → friendship → trust → love.
-
-### Core Dynamic
-Aarav sees when Aurelia is pretending to be unaffected.
-
-Aurelia sees when Aarav is using composure to avoid saying what he feels.
-
-## Family Pressure
-
-Specific family members remain undefined.
-
-Possible expectations may involve:
-
-- Tradition
-- Responsibility
-- Emotional restraint
-- Community reputation
-
-## Strengths
-
-- Observation
-- Strategic thinking
-- Loyalty
-- Calm under immediate pressure
-
-## Flaws
-
-- Emotional avoidance
-- Overthinking
-- Difficulty asking for help
-- Using distance as protection
+## Trilogy Relationship Movement
+**Rivals → Forced Cooperation → Respect → Trust → Friendship → Emotional Intimacy → Love → Conscious Commitment**
 
 ## Character Arc Direction
+### Book One
+Begins learning that control and emotional distance cannot solve every threat.
 
-Aarav learns:
+### Book Two
+Learns that patience can become avoidance when action and honesty are required.
 
-> **Control is valuable, but hiding behind control is still a form of fear.**
+### Book Three
+Must act and commit despite uncertainty rather than waiting for complete certainty.
 
-## Protected Areas
+## Author-Only Protection
+Future-book revelations are governed by the Revelation Matrix and author-only canon.
 
-Do not establish yet:
-
-- Exact family structure
-- Physical appearance details
-- Exact age
-- Complete childhood history
-- Final career or adult role
-
-> **Aarav's growth is not learning to become louder. It is learning that honesty does not make him less controlled.**
+## Rule
+Aarav must never exist merely to fix Aurelia. His choices, failures, and growth remain independently meaningful.

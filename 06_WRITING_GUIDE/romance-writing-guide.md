@@ -1,51 +1,32 @@
-# Romance Writing Guide
+# Central Romance Writing Guide
 
-> **Document Type:** Central Romance Direction
+## Canon Progression
+The Aurelia–Aarav relationship follows:
 
-## Core Relationship
+**Rivals → Forced Cooperation → Respect → Trust → Friendship → Emotional Intimacy → Love → Conscious Commitment**
 
-Aurelia and Aarav follow:
+Do not reduce this progression to an enemies-to-lovers structure.
 
-**Enemies → Friends → Lovers**
+## Book Progression
+### Book One
+Rivalry becomes respect, trust, and friendship.
 
-## Romance Principles
+### Book Two
+Friendship develops into emotional intimacy and love.
 
-Their relationship must be:
+### Book Three
+Love is tested by pressure, incompatible choices, uncertainty, and responsibility, then becomes conscious commitment.
 
-- Gradual
-- Mutual
-- Chosen
-- Emotionally earned
+## Writing Rules
+- Attraction alone is never sufficient progression.
+- Each emotional step must be earned through shared experience.
+- Conflict must arise from character and circumstance, not manufactured misunderstanding.
+- Neither character exists to repair the other.
+- Romance should coexist with the central plot rather than pause it.
+- Love remains a choice, not destiny.
 
-## Required Foundation
-
-Friendship must develop before romantic commitment.
-
-Attraction alone is not enough.
-
-## Important Moments
-
-The relationship should grow through:
-
-- Trust
-- Shared experiences
-- Arguments
-- Apologies
-- Humor
-- Vulnerability
-
-## Conflict Rule
-
-Do not create conflict through avoidable misunderstandings that could be solved by one ordinary sentence unless a real emotional reason prevents communication.
-
-## Inter-Species Challenge
-
-Their species difference should influence culture and social expectations.
-
-It must not imply that their love is biologically wrong or magically forbidden by default.
-
-## Serpentfire Rule
-
-Serpentfire must never remove their agency.
-
-> **Love is strongest in this story when it remains a choice.**
+## Avoid
+- Instant intimacy after hostility.
+- Repeated jealousy plots.
+- Romantic scenes that reveal information characters could not plausibly know.
+- Using romance to solve unresolved personal trauma.
