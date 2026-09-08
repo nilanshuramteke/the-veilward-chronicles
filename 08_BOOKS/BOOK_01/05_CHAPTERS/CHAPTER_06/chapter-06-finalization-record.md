@@ -1,50 +1,76 @@
 # Chapter 6 — Finalization Record
 
 ## Final Status
-**FINALIZATION READY**
+**FINALIZED**
 
-Chapter 6 passed the Phase 6 Post-Correction Verification Audit following the Phase 4 Combined Audit and the authorized Phase 5 correction pass.
+Chapter 6 passed the combined Canon + Continuity + Narrative Quality + Reader-Contract audit, followed by the authorized Phase 5 correction pass and Phase 6 post-correction verification.
 
-## Chapter Function Completed
-Chapter 6 advances the mystery through contradiction rather than explanation.
+## Chapter Title
+**Separate Accounts**
 
-The Chapter 4 event remains objectively shared, but witness accounts do not align in every detail. Aarav's comparison of those differences establishes complementary evidence without explaining the anomaly or converting the evidence into a theory.
+## POV
+Aarav — close third person, past tense.
 
-The recurring angular mark gains additional factual pressure through account comparison, while remaining a secondary clue rather than an answer.
+## Phase History
 
-## Final Corrections Applied
+### Phase 1 — Orientation Confirmation
+Approved. The Chapter 6 package was confirmed as structurally sound and consistent with the Chapter 5 continuity handoff.
 
-### Correction 1 — Trailing `which...` + Continuity Precision
+### Phase 2 — Detailed Scene Planning
+Verdict: **READY FOR PHASE 3.1**
 
-Original wording used:
-- a trailing `which...` clause, and
-- the unsupported specification `first-year`.
+### Phase 3.1 — Targeted Scene Plan Calibration
+Two targeted risks were corrected:
+1. The original third-mark treatment could imply that the Chapter 4 event created the mark.
+2. Scene 3 risked allowing Aarav to narratively "win" the interpretation.
 
+The calibrated plan established:
+- the mark was pre-existing,
+- frost temporarily revealed it,
+- the mark/event relationship remains non-causal,
+- neither character owns the final interpretation.
+
+### Phase 3.2 — Final Targeted Scene Plan Calibration
+Verdict: **READY FOR PHASE 4**
+
+All major canon, continuity, mystery, evidence, relationship, and Chapter 7 boundary checks passed.
+
+### Phase 4 — Combined Audit
+Three findings required correction:
+- trailing `which...` construction,
+- unsupported `first-year` specificity,
+- insufficient textual anchoring of the primary ward contradiction.
+
+### Phase 5 — Authorized Corrections
+
+#### Correction 1 — Trailing `which...` + continuity precision
 Final wording:
 > "she'd been two groups over, moving toward a younger student who'd frozen mid-step. That put her somewhere he had no reasonable claim to have observed at all."
 
-This removes the monitored trailing construction and restores alignment with Chapter 4's established wording.
+This removed the prohibited trailing construction and restored alignment with Chapter 4's established wording.
 
-### Correction 2 — Primary Mystery Anchor
-
+#### Correction 2 — Primary mystery anchor
 Added in Scene 4:
 > "None of it explained why the wards had found nothing to explain."
 
-This restores the ward contradiction as the primary mystery frame without recapping prior events, adding new information, or implying that the angular mark explains the ward gap.
+This restored the primary mystery in the chapter's closing frame without re-explaining Chapters 4–5 or implying causality between the mark and the ward contradiction.
 
-## Final Audit Status
-- Canon audit: PASS
-- Continuity audit: PASS
-- Narrative quality audit: PASS after authorized corrections
-- Reader-contract audit: PASS
-- Mystery firewall: PASS
-- Ward-result neutrality: PASS
-- Symbol integrity: PASS
-- Aarav POV and character integrity: PASS
-- Relationship boundary: PASS
-- Repetition-pattern verification: PASS
-- Chapter 3 wind firewall: PASS
-- Change integrity: PASS
+### Phase 6 — Post-Correction Verification
+Verdict: **FINALIZATION READY**
+
+Verified:
+- both authorized corrections,
+- no new repetition patterns,
+- no change to the "already" instances,
+- mystery firewall,
+- symbol firewall,
+- ward neutrality,
+- canon/continuity integrity,
+- relationship boundary,
+- Aarav POV,
+- Chapter 3 wind firewall,
+- Chapter 7 boundary,
+- change integrity.
 
 ## Final Narrative State
 
@@ -52,20 +78,53 @@ This restores the ward contradiction as the primary mystery frame without recapp
 A shared anomalous event occurred inside Veilward, but the wards contain nothing capable of accounting for what the witnesses experienced.
 
 ### Witness evidence
-The event was shared, but individual accounts contain incompatible or incomplete details. Aarav treats those discrepancies as evidence rather than explanation.
+The event was shared, but witness accounts do not perfectly align. Aarav recognizes that his account is incomplete rather than necessarily incorrect.
 
 ### Secondary clue
-The same three-stroke angular mark has now gained further factual pressure through recurrence and account comparison.
+The same three-stroke angular mark exists in three relevant instances by the end of the chapter, including a pre-existing mark that Aurelia observed during the Chapter 4 event when frost temporarily made it visible.
 
-Its meaning, origin, maker, age, purpose, magical status, and connection to the Chapter 4 event remain unknown.
+### What remains unknown
+- anomaly identity,
+- anomaly nature,
+- anomaly intelligence or awareness,
+- anomaly purpose or motive,
+- origin,
+- reason witness perceptions differ,
+- mark meaning,
+- mark maker,
+- mark age,
+- mark origin,
+- mark purpose,
+- magical status,
+- any causal relationship between mark and anomaly.
 
-### Character state
-Aarav and Aurelia remain rivals.
+## Character State
 
-They possess complementary information but do not form a partnership, agree on a shared investigation, or become emotionally intimate.
+### Aarav
+- analytical,
+- controlled,
+- pattern-sensitive,
+- recognizes the limits of his own vantage point,
+- does not possess privileged knowledge.
 
-### Exit state
-The chapter ends with stronger factual convergence and unresolved pressure. The evidence has become more difficult to dismiss, but it still explains nothing.
+### Aurelia
+- direct,
+- independently observant,
+- resistant to Aarav's interpretive framing,
+- retains control of her own evidence.
+
+### Relationship
+Aurelia and Aarav remain rivals.
+
+They possess complementary evidence but do not form a partnership, shared investigation, task division, trust agreement, or romantic breakthrough.
+
+## Institutional State
+- field restrictions remain part of the incident aftermath,
+- evaluation remains unresolved/suspended,
+- Warden Seraphine remains an operational authority rather than a source of hidden explanation.
+
+## Reader-Contract Result
+Chapter 6 provides genuine forward movement through evidence convergence rather than routine Academy material or repeated exposition.
 
 ## Finalization Authority
-**Chapter 6 is finalized for continuity purposes and may serve as the authoritative immediate predecessor for Chapter 7 planning.**
+This record establishes the Chapter 6 exit state as the authoritative immediate continuity basis for Chapter 7.
