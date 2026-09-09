@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*302 markdown files across 34 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
+*305 markdown files across 34 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
 
 
 - **00_CORE/**
@@ -201,6 +201,9 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [audit-checklist.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_07/audit-checklist.md)
         - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_07/canon-constraints.md)
         - [chapter-07-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_07/chapter-07-blueprint.md)
+        - [chapter-07-finalization-record.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_07/chapter-07-finalization-record.md)
+        - [chapter-07-to-chapter-08-continuity-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_07/chapter-07-to-chapter-08-continuity-handoff.md)
+        - [chapter-07-to-chapter-08-state-lock.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_07/chapter-07-to-chapter-08-state-lock.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_07/drafting-brief.md)
     - **06_ENDING/**
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
