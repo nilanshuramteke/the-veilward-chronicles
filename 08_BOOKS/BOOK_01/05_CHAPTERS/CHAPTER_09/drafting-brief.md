@@ -28,9 +28,9 @@ The task must appear on the page as real physical labor: resetting a disturbed m
 ## Institutional Figures
 Seraphine and Voss each arrive at the field in turn — do not have the protagonists travel to them. Both remain strictly procedural/gatekeeping:
 - Seraphine: restriction, safety, consequence. No interpretation of the anomaly.
-- Voss: personal, narrow authority over restricted-knowledge access — the same kind of bounded task he assigned in Chapter 7. He may state that any access requires one shared account "under both your names," directly echoing his Chapter 7 wording/logic. He must not explain any lore.
+- Voss: personal, narrow authority over restricted-knowledge access — the same kind of bounded task he assigned in Chapter 7. He may state that any access requires one shared account "under both your names," echoing his Chapter 7 logic and rhythm — but vary the actual sentence; do not quote his Chapter 7 line verbatim, or it will read as a repeated line rather than a consistent character trait. He must not explain any lore.
 
-Do not invent a department, program, certification, or roster. Any supervision flexibility Aurelia negotiates must read as Voss's own one-time discretion.
+Do not invent a department, program, certification, or roster. Any supervision flexibility Aurelia negotiates must read as Voss's own one-time discretion — personal and revocable, something he could tighten again at will, not a right she has won — even though it will govern future sessions in practice.
 
 ## Negotiation / Friction
 The disagreement between Aurelia and Aarav is about operational method — how much latitude to take under the new constraint — not about what the voice or anomaly is. Keep this tied to physical action (argued while working), not a seated debate. Aarav may visibly register that one of Aurelia's points has weight without conceding or softening.

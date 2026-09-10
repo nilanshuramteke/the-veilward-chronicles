@@ -29,7 +29,7 @@ Chapter 9 adds no new evidence, inference, or manifestation. The mystery remains
 ## Institutional Constraints
 - Restitution is an explicitly established Academy disciplinary category — use it, do not reinvent it.
 - Voss's authority is personal and narrow: "gatekeeper of restricted historical knowledge" who "may provide... access to restricted knowledge." He is not the head of a department or program.
-- Any supervision concession (e.g., allowing a faculty member other than Voss to supervise) must be framed as Voss's own one-time discretion, never as a policy, roster, or certification system.
+- Any supervision concession (e.g., allowing a faculty member other than Voss to supervise) must be framed as Voss's own one-time discretion, never as a policy, roster, or certification system. This discretion must read as personal and revocable — Voss retains the standing right to reassert direct supervision at any time — not as an entitlement Aurelia has secured, even though it will apply across future sessions.
 - Seraphine's role is procedural only: security, restriction, consequence. She does not interpret, explain, or speculate about the anomaly.
 - The Chapter 7 precedent (a single reconciled account "under both your names... not two") may be directly reused as the basis for any shared-account requirement in Chapter 9.
 - Do not invent new Academy bureaucracy, departments, certifications, forms, or administrative systems.
