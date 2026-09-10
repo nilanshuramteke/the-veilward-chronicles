@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*322 markdown files across 36 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
+*337 markdown files across 36 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
 
 
 - **00_CORE/**
@@ -17,6 +17,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [themes.md](00_CORE/themes.md)
   - [timeline.md](00_CORE/timeline.md)
 - **01_WORLD/**
+  - [README.md](01_WORLD/README.md)
   - [hidden-society.md](01_WORLD/hidden-society.md)
   - [hidden-world-geography.md](01_WORLD/hidden-world-geography.md)
   - [hidden-world-history.md](01_WORLD/hidden-world-history.md)
@@ -27,6 +28,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [world-overview.md](01_WORLD/world-overview.md)
   - [world-technology-and-modern-life.md](01_WORLD/world-technology-and-modern-life.md)
 - **02_MAGIC_AND_SPECIES/**
+  - [README.md](02_MAGIC_AND_SPECIES/README.md)
   - [magic-system.md](02_MAGIC_AND_SPECIES/magic-system.md)
   - [magical-affinities.md](02_MAGIC_AND_SPECIES/magical-affinities.md)
   - [magical-training-and-control.md](02_MAGIC_AND_SPECIES/magical-training-and-control.md)
@@ -36,6 +38,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [power-and-limitations.md](02_MAGIC_AND_SPECIES/power-and-limitations.md)
   - [species-framework.md](02_MAGIC_AND_SPECIES/species-framework.md)
 - **03_ACADEMY/**
+  - [README.md](03_ACADEMY/README.md)
   - [academy-campus-and-locations.md](03_ACADEMY/academy-campus-and-locations.md)
   - [academy-curriculum.md](03_ACADEMY/academy-curriculum.md)
   - [academy-history.md](03_ACADEMY/academy-history.md)
@@ -45,6 +48,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [student-life.md](03_ACADEMY/student-life.md)
   - [veilward-academy.md](03_ACADEMY/veilward-academy.md)
 - **04_CHARACTERS/**
+  - [README.md](04_CHARACTERS/README.md)
   - [aarav.md](04_CHARACTERS/aarav.md)
   - [aurelia.md](04_CHARACTERS/aurelia.md)
   - [character-development-tracker.md](04_CHARACTERS/character-development-tracker.md)
@@ -60,6 +64,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [varun.md](04_CHARACTERS/varun.md)
   - [warden-seraphine.md](04_CHARACTERS/warden-seraphine.md)
 - **05_LORE_AND_HISTORY/**
+  - [README.md](05_LORE_AND_HISTORY/README.md)
   - [ancient-history.md](05_LORE_AND_HISTORY/ancient-history.md)
   - [elyra-and-varun-history.md](05_LORE_AND_HISTORY/elyra-and-varun-history.md)
   - [forgotten-age.md](05_LORE_AND_HISTORY/forgotten-age.md)
@@ -70,6 +75,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [outer-dark-history.md](05_LORE_AND_HISTORY/outer-dark-history.md)
   - [serpentfire-history.md](05_LORE_AND_HISTORY/serpentfire-history.md)
 - **06_WRITING_GUIDE/**
+  - [README.md](06_WRITING_GUIDE/README.md)
   - [action-and-magic-scenes.md](06_WRITING_GUIDE/action-and-magic-scenes.md)
   - [character-voice-guide.md](06_WRITING_GUIDE/character-voice-guide.md)
   - [continuity-and-canon-guide.md](06_WRITING_GUIDE/continuity-and-canon-guide.md)
@@ -83,6 +89,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [themes-in-writing.md](06_WRITING_GUIDE/themes-in-writing.md)
   - [writing-style.md](06_WRITING_GUIDE/writing-style.md)
 - **07_SERIES_BLUEPRINT/**
+  - [README.md](07_SERIES_BLUEPRINT/README.md)
   - [book-roadmap.md](07_SERIES_BLUEPRINT/book-roadmap.md)
   - [character-series-arcs.md](07_SERIES_BLUEPRINT/character-series-arcs.md)
   - [conflict-escalation.md](07_SERIES_BLUEPRINT/conflict-escalation.md)
@@ -98,21 +105,25 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [thematic-progression.md](07_SERIES_BLUEPRINT/thematic-progression.md)
   - [trilogy-overview.md](07_SERIES_BLUEPRINT/trilogy-overview.md)
 - **08_BOOKS/**
+  - [README.md](08_BOOKS/README.md)
   - **BOOK_01/**
     - [README.md](08_BOOKS/BOOK_01/README.md)
     - [book-01-canon-lock.md](08_BOOKS/BOOK_01/book-01-canon-lock.md)
     - **00_BOOK_FOUNDATION/**
+      - [README.md](08_BOOKS/BOOK_01/00_BOOK_FOUNDATION/README.md)
       - [book-one-continuity.md](08_BOOKS/BOOK_01/00_BOOK_FOUNDATION/book-one-continuity.md)
       - [book-overview.md](08_BOOKS/BOOK_01/00_BOOK_FOUNDATION/book-overview.md)
       - [book-premise.md](08_BOOKS/BOOK_01/00_BOOK_FOUNDATION/book-premise.md)
       - [book-themes.md](08_BOOKS/BOOK_01/00_BOOK_FOUNDATION/book-themes.md)
     - **01_PLOT/**
+      - [README.md](08_BOOKS/BOOK_01/01_PLOT/README.md)
       - [act-structure.md](08_BOOKS/BOOK_01/01_PLOT/act-structure.md)
       - [conflict-map.md](08_BOOKS/BOOK_01/01_PLOT/conflict-map.md)
       - [major-scenes.md](08_BOOKS/BOOK_01/01_PLOT/major-scenes.md)
       - [pacing-plan.md](08_BOOKS/BOOK_01/01_PLOT/pacing-plan.md)
       - [plot-blueprint.md](08_BOOKS/BOOK_01/01_PLOT/plot-blueprint.md)
     - **02_MYSTERY/**
+      - [README.md](08_BOOKS/BOOK_01/02_MYSTERY/README.md)
       - [false-lead-intruder-theory.md](08_BOOKS/BOOK_01/02_MYSTERY/false-lead-intruder-theory.md)
       - [final-revelation.md](08_BOOKS/BOOK_01/02_MYSTERY/final-revelation.md)
       - [first-ember.md](08_BOOKS/BOOK_01/02_MYSTERY/first-ember.md)
@@ -122,16 +133,19 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
       - [the-echo.md](08_BOOKS/BOOK_01/02_MYSTERY/the-echo.md)
       - [unknown-student-thread.md](08_BOOKS/BOOK_01/02_MYSTERY/unknown-student-thread.md)
     - **03_CHARACTER_ARCS/**
+      - [README.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/README.md)
       - [aarav-book-arc.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/aarav-book-arc.md)
       - [aurelia-book-arc.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/aurelia-book-arc.md)
       - [romance-and-friendship-arc.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/romance-and-friendship-arc.md)
       - [supporting-cast.md](08_BOOKS/BOOK_01/03_CHARACTER_ARCS/supporting-cast.md)
     - **04_WORLD_AND_LOCATIONS/**
+      - [README.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/README.md)
       - [academy-life.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/academy-life.md)
       - [book-01-magic-usage-lock.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/book-01-magic-usage-lock.md)
       - [book-one-locations.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/book-one-locations.md)
       - [hidden-chamber.md](08_BOOKS/BOOK_01/04_WORLD_AND_LOCATIONS/hidden-chamber.md)
     - **05_CHAPTERS/**
+      - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/README.md)
       - [chapter-continuity-tracker.md](08_BOOKS/BOOK_01/05_CHAPTERS/chapter-continuity-tracker.md)
       - [chapter-outline.md](08_BOOKS/BOOK_01/05_CHAPTERS/chapter-outline.md)
       - [chapter-overview.md](08_BOOKS/BOOK_01/05_CHAPTERS/chapter-overview.md)
@@ -225,6 +239,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_09/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_09/scene-breakdown.md)
     - **06_ENDING/**
+      - [README.md](08_BOOKS/BOOK_01/06_ENDING/README.md)
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
       - [climax-blueprint.md](08_BOOKS/BOOK_01/06_ENDING/climax-blueprint.md)
       - [ending-and-resolution.md](08_BOOKS/BOOK_01/06_ENDING/ending-and-resolution.md)
