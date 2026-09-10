@@ -60,6 +60,8 @@ Avoid:
 
 Favor concrete physical behavior over analytical summary. Keep Aurelia's voice kinetic, blunt, and action-first throughout — do not let the prose drift into Aarav's precise/analytical register merely because the mystery and institutional logic are present.
 
+Also guard against: over-choreographing the post repair (a few precise physical beats read better than a blow-by-blow sequence); over-explaining Seraphine's or Voss's terms (state them once, cleanly, without restating or justifying at length); and letting Voss's measured, deliberate diction read as lore-dispensing in tone — his lines stay procedural and personal, not explanatory.
+
 ## POV Discipline
 Aurelia's interiority should emphasize direct action, physical decision-making, impatience with procedure, and protectiveness of her own agency. Aarav is observed only through visible behavior — no access to his private reasoning beyond what Aurelia can infer from what she sees him do.
 
