@@ -13,7 +13,7 @@ Close third person
 Past tense
 
 ## Current Status
-**READY FOR PHASE 4 DRAFTING**
+**FINALIZED**
 
 ## Workflow
 
@@ -22,8 +22,12 @@ Phase 1 — Orientation               A
 Phase 2 — Detailed Scene Planning   A
 Phase 3.1 — Targeted Calibration    A
 Phase 3.2 — Final Calibration       A
-Drafting Package                    COMPLETE
-Phase 4 — Drafting                  NEXT
+Phase 4 — Combined Audit            B → Corrections Completed
+Phase 5 — Authorized Corrections    COMPLETE
+Phase 6 — First Verification        B → Follow-Up Corrections Completed
+Phase 6 — Second Verification       A
+Phase 6.3 — Final Verification      A
+Finalization                        COMPLETE
 ```
 
 ## Package Contents
