@@ -258,6 +258,9 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [chapter-10-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/chapter-10-continuity-input.md)
         - [chapter-11-audit-checklist.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/chapter-11-audit-checklist.md)
         - [chapter-11-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/chapter-11-blueprint.md)
+        - [chapter-11-finalization-record.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/chapter-11-finalization-record.md)
+        - [chapter-11-to-chapter-12-continuity-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/chapter-11-to-chapter-12-continuity-handoff.md)
+        - [chapter-11-to-chapter-12-state-lock.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/chapter-11-to-chapter-12-state-lock.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/scene-breakdown.md)
     - **06_ENDING/**
