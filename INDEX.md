@@ -263,6 +263,14 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [chapter-11-to-chapter-12-state-lock.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/chapter-11-to-chapter-12-state-lock.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/scene-breakdown.md)
+      - **CHAPTER_12/**
+        - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/README.md)
+        - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/canon-constraints.md)
+        - [chapter-11-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/chapter-11-continuity-input.md)
+        - [chapter-12-audit-checklist.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/chapter-12-audit-checklist.md)
+        - [chapter-12-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/chapter-12-blueprint.md)
+        - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/drafting-brief.md)
+        - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/scene-breakdown.md)
     - **06_ENDING/**
       - [README.md](08_BOOKS/BOOK_01/06_ENDING/README.md)
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
