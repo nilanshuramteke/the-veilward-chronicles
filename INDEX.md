@@ -2,8 +2,9 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*357 markdown files across 37 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
+*368 markdown files across 39 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
 
+- [README.md](README.md)
 
 - **00_CORE/**
   - [AI-INSTRUCTIONS.md](00_CORE/AI-INSTRUCTIONS.md)
