@@ -13,20 +13,26 @@ Close third person
 Past tense
 
 ## Current Status
-**READY FOR PHASE 4 DRAFTING**
+**FINALIZED**
 
 ## Completed Workflow
 
-- Phase 1 — Orientation: **A — ORIENTATION READY**
-- Phase 2 — Detailed Scene Planning: **A — DETAILED PLAN READY FOR PHASE 3**
-- Phase 3.1 — Targeted Calibration: **B — TARGETED REVISIONS REQUIRED** → corrections applied → **A — PHASE 3.1 TARGETED CORRECTIONS COMPLETE**
-- Phase 3.2 — Final Calibration: **A — FINAL CALIBRATION PASSED**
-- Drafting Package: **COMPLETE**
-- Phase 4 — Drafting: **NEXT**
+```
+Phase 1 — Orientation                    A
+Phase 2 — Detailed Scene Planning        A
+Phase 3.1 — Targeted Calibration         B → Corrections Completed → A
+Phase 3.2 — Final Calibration            A
+Drafting Package                         COMPLETE
+Phase 4 — Combined Audit                 B → Corrections Required
+Phase 5 — Authorized Corrections         COMPLETE → A
+Phase 6 — Post-Correction Verification   A
+Phase 6.3 — Final Verification           A
+Finalization                             COMPLETE
+```
 
 ## Purpose
 
-This package is the authoritative bridge between Phase 3.2 Final Calibration and Phase 4 Drafting. It consolidates every approved planning and calibration decision — including the Phase 3.1 corrections — into a single, self-contained set of drafting instructions, so Phase 4 drafting does not require reconstructing decisions from five separate prior reports.
+This package documents the complete, finalized Chapter 12 process: every approved planning and calibration decision, the Phase 3.1 and Phase 5 corrections, and the full verification history through Phase 6.3, consolidated into a single authoritative record.
 
 ## Workflow
 
@@ -53,6 +59,8 @@ Phase 1 Orientation
 - `scene-breakdown.md` — final three-scene architecture, corrected per Phase 3.1/3.2.
 - `drafting-brief.md` — the primary Phase 4 writer-facing execution brief.
 - `chapter-12-audit-checklist.md` — the Phase 4 Combined Audit checklist.
+- `chapter-12-finalization-record.md` — complete verification history, corrections, and final narrative/continuity state.
+- `chapter-12-to-chapter-13-continuity-handoff.md` and `chapter-12-to-chapter-13-state-lock.md` — authoritative Chapter 13 starting state.
 
 ## Authoritative Inputs
 
@@ -80,8 +88,12 @@ Phase 3.2 is the final authority for Chapter 12 architecture. This Drafting Pack
 09_MANUSCRIPTS/BOOK_01/chapter-12-serpentfire.md
 ```
 
-`09_MANUSCRIPTS/` is gitignored and must never be committed or pushed. This file does not yet exist — it will be created during Phase 4 Drafting, not before.
+`09_MANUSCRIPTS/` is gitignored and must never be committed or pushed. The manuscript is finalized: 2,130 words, 3 scenes (2 scene breaks). It should not be reopened for ordinary stylistic polishing. Any future change requires a new explicitly authorized revision process.
 
-## Known Drafting Caution
+## Resolved Drafting Caution
 
-**Scene 3 pacing density — non-blocking.** Scene 3 carries Voss's return, Aarav's report, Voss's procedural reaction, the (compressed) institutional consequence, and the mutual relationship beat. Each element is necessary; none is decorative. Give this scene proportionally more room and let each beat land with space rather than compressing them into rapid back-to-back exchanges.
+**Scene 3 pacing density** — flagged as non-blocking at Phase 3.2, confirmed successfully resolved in prose at Phase 4 and reconfirmed at Phase 6.3. No further action required.
+
+## Non-Blocking Carried-Forward Observation
+
+**C12-P6-OBS-001 (C)** — a trailing fragment in the Scene 3 sentence beginning "He offered no verdict on fault..." was noted during Phase 6 as a minor, non-blocking stylistic observation. It does not affect meaning, grammar, or characterization and requires no manuscript action. See `chapter-12-finalization-record.md` for detail.
