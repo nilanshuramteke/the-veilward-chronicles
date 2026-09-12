@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*380 markdown files across 40 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
+*387 markdown files across 41 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
 
 - [README.md](README.md)
 
@@ -285,6 +285,14 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [chapter-13-to-chapter-14-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_13/chapter-13-to-chapter-14-handoff.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_13/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_13/scene-breakdown.md)
+      - **CHAPTER_14/**
+        - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/README.md)
+        - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/canon-constraints.md)
+        - [chapter-13-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-13-continuity-input.md)
+        - [chapter-14-audit-checklist.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-14-audit-checklist.md)
+        - [chapter-14-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-14-blueprint.md)
+        - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/drafting-brief.md)
+        - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/scene-breakdown.md)
     - **06_ENDING/**
       - [README.md](08_BOOKS/BOOK_01/06_ENDING/README.md)
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
