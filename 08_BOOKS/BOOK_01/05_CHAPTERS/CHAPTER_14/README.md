@@ -4,7 +4,7 @@
 **Chapter 14 — The First Lie**
 
 ## POV
-**Aarav** — close third person, past tense. Locked since Phase 1 Orientation and reaffirmed through Phase 2, Phase 3.1 (including one reconciliation cycle), and Phase 3.2. This is Aurelia's alternating counterpart chapter to Chapter 13.
+**Aarav** — close third person, past tense. Locked since Phase 1 Orientation and reaffirmed through Phase 2, Phase 3.1 (including one reconciliation cycle), Phase 3.2, and confirmed unchanged through Phase 4, Phase 6, and Phase 6.3. This is Aurelia's alternating counterpart chapter to Chapter 13.
 
 ## Narrative Mode
 Close third person
@@ -16,9 +16,7 @@ Past tense
 Act II-A — final chapter before the Chapter 15 midpoint.
 
 ## Current Status
-**DRAFTING PACKAGE COMPLETE — READY FOR PHASE 4 DRAFT**
-
-This is a **pre-draft package**. Chapter 14 is not finalized. No manuscript exists yet.
+**FINALIZED**
 
 ## Completed Workflow
 
@@ -28,12 +26,17 @@ Phase 2 — Detailed Scene Planning              A
 Phase 3.1 — Targeted Calibration               B → Reconciled → A
 Phase 3.2 — Final Calibration                  A
 Drafting Package                               COMPLETE
-Phase 4 — Manuscript Draft                     NOT STARTED
+Phase 4 — Manuscript Draft                     COMPLETE
+Phase 4 — Combined Audit                       A — NO CORRECTIONS REQUIRED
+Phase 5 — Authorized Corrections               NOT REQUIRED
+Phase 6 — Post-Correction Verification         A
+Phase 6.3 — Final Verification                 A
+Finalization                                   COMPLETE
 ```
 
 ## Purpose
 
-This package translates the fully calibrated Chapter 14 architecture — reconciled through one Phase 3.1 correction cycle and confirmed stable at Phase 3.2 — into the authoritative Phase 4 drafting instructions.
+This package documents the complete, finalized Chapter 14 process: every approved planning and calibration decision, the Phase 3.1 reconciliation, and the full verification history through Phase 6.3, consolidated into a single authoritative record.
 
 ## Chapter Function
 
@@ -47,23 +50,26 @@ Phase 1 Orientation
 → Phase 3.1 Targeted Calibration
 → Phase 3.1 Reconciliation
 → Phase 3.2 Final Calibration
-→ Drafting Package  (this package)
+→ Drafting Package
 → Phase 4 Draft
 → Phase 4 Combined Audit
-→ Phase 5 Corrections (if required)
-→ Phase 6 Verification
+→ Phase 6 Post-Correction Verification
 → Phase 6.3 Final Verification
 → Finalization
 ```
 
+Phase 5 does not appear as an executed step: the Phase 4 Combined Audit returned no B-level findings, so no correction pass was required.
+
 ## Package Contents
 
 - `canon-constraints.md` — hard constraint document: POV, relationship, characterization, magic, mystery, institutional, and protected-lore locks, including all Phase 3.1 reconciliation points and superseded design elements.
-- `chapter-13-continuity-input.md` — the authoritative Chapter 13 exit state Chapter 14 inherits.
+- `chapter-13-continuity-input.md` — the authoritative Chapter 13 exit state Chapter 14 inherited.
 - `chapter-14-blueprint.md` — chapter-level narrative blueprint: dramatic question, engine, dramatic spine, mandatory/forbidden functions, ending lock.
 - `scene-breakdown.md` — final four-scene architecture, incorporating all Phase 3.1/3.2 findings.
 - `drafting-brief.md` — the primary Phase 4 writer-facing execution brief.
 - `chapter-14-audit-checklist.md` — Information/Mystery/Relationship/Stakes ledgers plus the full Phase 4 audit checklist.
+- `chapter-14-finalization-record.md` — complete verification history, corrections, and final narrative/continuity state.
+- `chapter-14-to-chapter-15-handoff.md` — authoritative Chapter 15 starting state.
 
 ## Authoritative Inputs
 
@@ -77,28 +83,37 @@ Phase 1 Orientation
 
 **Developmental input:** `13_REVIEWS_AND_AUDITS/book-01-review.md` (covers Chapters 1–13).
 
-## Drafting Rule
+## Finalization Rule
 
-**This package is a translation of the approved Chapter 14 architecture. It is not an invitation to redesign the chapter.**
+**Chapter 14 is FINALIZED.**
 
-Phase 3.2 is the final authority for Chapter 14 architecture. This Drafting Package translates that architecture into drafting instructions; it does not introduce new story decisions. Phase 4 drafting must follow this package unless a later authorized correction explicitly changes it.
+The finalized manuscript is the authoritative Chapter 14 prose. It should not be reopened for ordinary stylistic polishing. Any future change requires a new, explicitly authorized revision process.
 
 ## Critical Chapter Principle
 
 **A formal institutional review forces Aurelia and Aarav to finally disclose everything they've been holding — and the Academy's answer is clean enough to tempt Aarav and wrong enough, in one specific way, for Aurelia to catch. They choose to test it themselves, openly, before it's sealed away, and the chapter ends exactly where Chapter 15 needs it to.**
 
-## Manuscript Location (Reserved)
+## Manuscript Location
 
 ```
 09_MANUSCRIPTS/BOOK_01/chapter-14-the-first-lie.md
 ```
 
-Not yet created. `09_MANUSCRIPTS/` is gitignored and must never be committed or pushed. This path is reserved for Phase 4 drafting.
+`09_MANUSCRIPTS/` is gitignored and must never be committed or pushed. The manuscript is finalized: 1,811 words, 4 scenes (3 scene breaks). It should not be reopened for ordinary stylistic polishing. Any future change requires a new explicitly authorized revision process.
 
-## Known Drafting Cautions
+## Resolved Drafting Cautions
 
-**Scene 1 density** — flagged as non-blocking at Phase 3.2: this scene carries compelled disclosure, the felt cost of losing interpretive control, the corridor's introduction, and the institutional theory. Give it proportional room, per the precedent that worked for Chapter 12's own comparably dense scene. See `scene-breakdown.md` and `drafting-brief.md` for detail.
+**Scene 1 density** — flagged as non-blocking at Phase 3.2, confirmed successfully resolved in prose at Phase 4 and reconfirmed at Phase 6.3. No further action required.
 
-**Aarav's blind-spot grounding** — flagged as non-blocking at Phase 3.2: his temptation must read as a first-time gap in auditing institutional conclusions (never having had reason to doubt Voss before), not a generic lapse in his established rigor. See `canon-constraints.md` and `drafting-brief.md` for the exact framing.
+**Aarav's blind-spot grounding** — flagged as non-blocking at Phase 3.2, confirmed successfully executed in prose at Phase 4: his temptation reads as a first-time gap in auditing institutional conclusions, not a generic lapse in his established rigor. No further action required.
 
-**Scene 4 verification mode** — flagged as non-blocking at Phase 3.2: this scene must be executed as an overt, disclosed act, explicitly distinct from Chapter 13's covert trespass. No stealth or infiltration language. See `scene-breakdown.md` and `drafting-brief.md` for detail.
+**Scene 4 verification mode** — flagged as non-blocking at Phase 3.2, confirmed successfully executed at Phase 4: the scene is explicitly overt and disclosed, distinct from Chapter 13's covert trespass, with no stealth or infiltration language. No further action required.
+
+## Non-Blocking Carried-Forward Observations
+
+Four C-level observations were identified at Phase 4 Combined Audit and reconfirmed unchanged through Phase 6 and Phase 6.3. None required correction. See `chapter-14-finalization-record.md` for detail:
+
+- **C14-P4-OBS-001** — a lightly-hedged external-attribution technique applied to Voss's demeanor (Scene 1).
+- **C14-P4-OBS-002** — a comparable lightly-hedged attribution applied to Mira's expression-read (Scene 3).
+- **C14-P4-OBS-003** — "specific" appears three times, two adjacent in one Scene 1 paragraph.
+- **C14-P4-OBS-004** — one trailing "which" construction at the opening of Scene 4.

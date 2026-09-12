@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*387 markdown files across 41 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
+*389 markdown files across 41 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
 
 - [README.md](README.md)
 
@@ -291,6 +291,8 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [chapter-13-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-13-continuity-input.md)
         - [chapter-14-audit-checklist.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-14-audit-checklist.md)
         - [chapter-14-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-14-blueprint.md)
+        - [chapter-14-finalization-record.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-14-finalization-record.md)
+        - [chapter-14-to-chapter-15-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-14-to-chapter-15-handoff.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/scene-breakdown.md)
     - **06_ENDING/**
