@@ -298,3 +298,45 @@ The correction replaces the reading-speed construction with a concrete physical-
 ### Phase 6.3 Readiness
 
 **PC6-01 is resolved. Chapter 15 is ready for Phase 6.3 Final Verification.**
+
+---
+
+## 26. Phase 6.3 — Final Verification
+
+**Verdict: A — FINAL VERIFICATION PASSED**
+
+Verified directly against the current manuscript (fresh full read, plus targeted regression scans), not only against prior phase reports.
+
+| Check | Result | Notes |
+|---|---|---|
+| CA-01 | PASS | Proximity-avoidance clause gone; replacement concrete, functional, non-romantic |
+| CA-02 | PASS | "went still" limited to 1 occurrence (Aurelia, Scene 3); both replacements concrete |
+| CA-03 | PASS | Mixed metaphor cleanly resolved |
+| CA-04 | ACCEPTED | Unchanged, correctly |
+| PC6-01 | PASS | Exact target replacement present; "read + slower" pattern no longer includes this sentence |
+| Opening continuity | PASS | Opens on "Aurelia went through first," no restaging |
+| Five-scene architecture | PASS | Five scenes, functions intact |
+| Evidence boundary | PASS | "We know what it isn't... not the same as nothing" and the closing reframing both hold the line; no internal-origin claim anywhere |
+| Chapter 10 payoff | PASS | "Fourteen-C" exchange untouched by any correction pass |
+| Midpoint | PASS | Evidence-driven; before/after/new-trajectory logic intact |
+| Mystery threads | PASS | Ch11/12/13 never mentioned; Ch14 corridor thread correctly reframed only |
+| Aurelia | PASS | Full instinct→objection→discovery→destabilization→recalibration progression intact; remains active throughout |
+| Aarav | PASS | Analytical, self-correcting, distinct from Ch14; PC6-01 sentence reinforces verification behavior |
+| Relationship | PASS | Rivalry, practical cooperation, earned Respect, functional proximity all intact; no romance/attraction/longing |
+| World / magic | PASS | Practical fire only; classification recognition remains institutional literacy, not magic; no new system or spectacle |
+| Protected lore | PASS | None revealed |
+| Ending | PASS | Transcription complete, original left in place, active close, Act II-B trajectory established |
+| Unauthorized changes | NONE | Only CA-01, CA-02a, CA-02b (later corrected by PC6-01), and CA-03 were ever changed — confirmed against the full edit history |
+
+### Final Regression Scan (manuscript, current state)
+- "neither...comment/mention/acknowledge/address/remark/notic-": 0 matches
+- "went...still": 1 match (line 67, "Aurelia went very still")
+- "slowly/slower": 3 matches, none in the PC6-01 sentence (line 39 "tilting it slowly" / line 65 "read slowly" / line 95 "read...slower" — all pre-existing or previously-cleared, none newly problematic)
+- "hold up to" (CA-03 mixed metaphor): 0 matches
+- Word count: ~2,473
+
+### Verdict Statement
+
+**Chapter 15 has passed Phase 6.3 Final Verification and is ready for Finalization.**
+
+No further manuscript changes were made during this gate. Next step: Chapter 15 finalization record and Chapter 15 → Chapter 16 continuity handoff.
