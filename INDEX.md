@@ -295,6 +295,16 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [chapter-14-to-chapter-15-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/chapter-14-to-chapter-15-handoff.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/scene-breakdown.md)
+      - **CHAPTER_15/**
+        - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/README.md)
+        - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/canon-constraints.md)
+        - [chapter-14-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/chapter-14-continuity-input.md)
+        - [chapter-15-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/chapter-15-blueprint.md)
+        - [chapter-15-phase4-audit.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/chapter-15-phase4-audit.md)
+        - [chapter-15-finalization-record.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/chapter-15-finalization-record.md)
+        - [chapter-15-to-chapter-16-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/chapter-15-to-chapter-16-handoff.md)
+        - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/drafting-brief.md)
+        - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/scene-breakdown.md)
     - **06_ENDING/**
       - [README.md](08_BOOKS/BOOK_01/06_ENDING/README.md)
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
