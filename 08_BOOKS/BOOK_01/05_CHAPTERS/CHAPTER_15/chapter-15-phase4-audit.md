@@ -254,3 +254,47 @@ CA-01, CA-02, and CA-03 were verified directly against the revised manuscript (n
 ### Phase 6.1 Readiness
 
 One narrowly-scoped correction (PC6-01) is required before finalization. Chapter 15 is not yet ready for Phase 6.3 Final Verification — a Phase 6.1 narrow correction round limited strictly to PC6-01 is needed first, followed by Phase 6.2 confirmation.
+
+---
+
+## 25. Phase 6.1 — Targeted Correction (PC6-01)
+
+**Verdict: A — PC6-01 CORRECTED**
+
+| Item | Original | Revised |
+|---|---|---|
+| PC6-01 | "He read the code a second time, slower than the first, like he wanted to be sure of it before he said anything." | "He ran his finger along the code a second time, checking each character against the first, before he said anything." |
+
+The correction replaces the reading-speed construction with a concrete physical-verification action (retracing the code with his finger, character by character) — consistent with, and a direct callback to, his own established action six lines earlier in the same scene ("He traced a stamped code along the file's spine with one finger"). No new information, character beat, relationship beat, or emotional/romantic subtext introduced.
+
+### Scope Verification
+
+- Sentences changed: 1
+- Lines 65/95 changed: No
+- Other manuscript changes: No
+- Architecture changed: No
+- Canon changed: No
+- Mystery changed: No
+- Character arc changed: No
+- Relationship changed: No
+
+### Repetition Check
+
+- "went still": 1 occurrence (Scene 3, "Aurelia went very still") — unchanged, correct.
+- "slowly/slower": 3 occurrences remain — "tilting it slowly" (Scene 2, CA-02a, out of this issue's scope), "Aarav read slowly" (Scene 3, pre-existing, out of scope), "read the line again, slower" (Scene 4, pre-existing, out of scope). The specific "read + slower" construction that had converged three times is now down to the two pre-existing, previously-unflagged instances — no longer includes the PC6-01 sentence.
+- No new "pause/freeze/stare/reread/study/examine" realization shorthand introduced — full-text scan confirms zero occurrences of these terms.
+- No proximity-avoidance construction present anywhere (confirmed by scan).
+
+### Regression Check
+
+- **Evidence boundary:** Unchanged — "no point of ingress established," the historical record, and "we know what it isn't" all intact.
+- **Chapter 10 payoff:** Unchanged — "Fourteen-C" beat untouched (the correction sits in the same scene but does not alter the reference exchange itself).
+- **Midpoint:** Unchanged — external-entry assumption remains undermined; internal origin remains unproven.
+- **Mystery threads:** Unchanged — Ch11/Ch12/Ch13 untouched.
+- **Character arcs:** Unchanged — Aurelia's progression untouched; Aarav remains analytical, and this single sentence reinforces rather than alters his verification-first characterization.
+- **Relationship:** Unchanged — no romance or romantic subtext anywhere.
+- **Ending:** Unchanged.
+
+### Phase 6.3 Readiness
+
+**PC6-01 is resolved. Chapter 15 is ready for Phase 6.3 Final Verification.**
