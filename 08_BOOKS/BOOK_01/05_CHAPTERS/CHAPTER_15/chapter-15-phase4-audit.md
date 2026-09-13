@@ -213,3 +213,44 @@ None. Architecture, evidence chain, Chapter 10 payoff, mystery-thread state, Aur
 ### Phase 6 Readiness
 
 **Chapter 15 is ready for Phase 6 Post-Correction Verification.**
+
+---
+
+## 24. Phase 6 — Post-Correction Verification
+
+**Verdict: B — VERIFICATION PASSED WITH NEW TARGETED ISSUE**
+
+CA-01, CA-02, and CA-03 were verified directly against the revised manuscript (not only the Phase 5 report) and confirmed correctly resolved: no proximity-avoidance construction remains anywhere in the chapter (full-text scan for "neither...comment/mention/acknowledge/address/remark/notic-" and equivalents returned zero matches); "went still" is reduced from three instances to one, correctly retaining the strongest ("Aurelia went very still"); the mixed metaphor is cleanly resolved. CA-04 was confirmed intact and correctly left unchanged. No unauthorized changes exist — the revised manuscript differs from the Phase 4 audited version only at the four authorized edit locations. All architecture, continuity, evidence boundary, Chapter 10 payoff, mystery-thread state, character arcs, relationship stage, and protected lore were verified unchanged and correctly regression-free.
+
+### New Issue Found — PC6-01
+
+- **Severity:** Low-Medium
+- **Location:** Scene 2, "He read the code a second time, slower than the first, like he wanted to be sure of it before he said anything." (the CA-02b replacement sentence)
+- **Evidence:** A full-text scan shows "slowly/slower" now occurs 4 times in the manuscript: this line; "tilting it slowly" (the CA-02a replacement, same scene); "Aarav read slowly" (Scene 3, pre-existing, outside CA-02's scope); "read the line again, slower, and stopped" (Scene 4, pre-existing, outside CA-02's scope). Three of the four — this line and the two pre-existing ones — share the identical shape "[Aarav] read [something] slow[er/ly]" as the chapter's tell for a moment of realization.
+- **Why it matters:** The CA-02b replacement, written to remove the repeated "went still" shorthand, converged onto a different but equally repetitive shorthand already present twice elsewhere in the chapter. This was not visible at Phase 5 because the two pre-existing instances sat outside CA-02's authorized scope and were not cross-checked against the new replacement text.
+- **Smallest required correction:** Reword this one sentence only, replacing "slower than the first" with a concrete, non-reading-speed marker of deliberateness. Do not touch the two pre-existing instances (Scenes 3 and 4) — they are outside this issue's scope and were not flagged by the Phase 4 audit.
+
+### Final Verification Table
+
+| Check | Result |
+|---|---|
+| CA-01 | PASS |
+| CA-02 | PASS (see PC6-01 for a downstream side effect) |
+| CA-03 | PASS |
+| CA-04 | ACCEPTED |
+| Opening continuity | PASS |
+| Five-scene architecture | PASS |
+| Evidence boundary | PASS |
+| Chapter 10 payoff | PASS |
+| Midpoint reversal | PASS |
+| Mystery threads | PASS |
+| Aurelia arc | PASS |
+| Aarav arc | PASS |
+| Relationship | PASS |
+| Protected lore | PASS |
+| Ending | PASS |
+| Unauthorized changes | NONE |
+
+### Phase 6.1 Readiness
+
+One narrowly-scoped correction (PC6-01) is required before finalization. Chapter 15 is not yet ready for Phase 6.3 Final Verification — a Phase 6.1 narrow correction round limited strictly to PC6-01 is needed first, followed by Phase 6.2 confirmation.
