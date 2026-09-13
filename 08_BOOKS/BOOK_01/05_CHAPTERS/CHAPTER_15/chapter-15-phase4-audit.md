@@ -179,3 +179,37 @@ A reader who has read Chapters 1–14 experiences a clean, unbroken continuation
 ## 22. Phase 5 Readiness
 
 **Ready for Phase 5 Authorized Corrections.** Only CA-01 through CA-03 are required (CA-04 is optional); all are prose-level and none touches architecture, character arcs, relationship stage, or protected lore.
+
+---
+
+## 23. Phase 5 — Authorized Corrections (Applied)
+
+**Verdict: B — CORRECTIONS COMPLETE WITH RESIDUAL ISSUE (none blocking)**
+
+All three required corrections (CA-01, CA-02, CA-03) were applied as surgical, sentence-level edits. CA-04 was reviewed and left unchanged — judged natural and character-appropriate on reflection, not authorial over-explanation. No architecture, continuity, evidence chain, Chapter 10 payoff, mystery-thread state, character arc, or relationship stage was altered.
+
+### Change Log
+
+| ID | Location | Original | Revised | Reason |
+|---|---|---|---|---|
+| CA-01 | Scene 3 | "It put her shoulder against his, the only way to hold the angle right, and neither of them commented on it." | "It put her shoulder against his, the only way to hold the angle right, and she shifted her grip until the light fell exactly where he needed it and stayed there." | Removed the near-verbatim proximity-avoidance construction; replaced with a concrete, task-focused action rather than a synonym for "didn't comment." |
+| CA-02a | Scene 2 | "Aarav turned it toward the light and went still." | "Aarav turned it toward the light, tilting it slowly to catch what little there was, his eyes fixed on something along the spine." | Replaced generic reaction-state shorthand with a concrete physical action that motivates Aurelia's next line ("What," she said). |
+| CA-02b | Scene 2 | "Aarav went still in the particular way he did when a piece landed somewhere he hadn't expected it to fit." | "He read the code a second time, slower than the first, like he wanted to be sure of it before he said anything." | Replaced second instance of the same shorthand with concrete behavior (re-reading, deliberately slower), preserving the beat (an unexpected realization) without repeating "went still" or a synonym for it. The third instance ("Aurelia went very still," Scene 3) was kept as the strongest, most character-appropriate use of the beat — repetition reduced from three instances to one. |
+| CA-03 | Scene 3 opening | "The pages inside were too brittle to hold up to the room's general dark, and the only light either of them had was hers." | "The pages inside were too brittle for careless handling, and too faded with age to read by anything less than close, steady light. The only light either of them had was hers." | Separated the two conflated ideas (physical fragility vs. need for concentrated light) into their own clauses; removed the mixed metaphor while preserving the old, dim environment and Aurelia's practical fire as the only real light source. |
+
+### Verification
+
+- "went still" now appears once in the manuscript (Scene 3, Aurelia), down from three instances.
+- No instance of "neither of them [commented/mentioned/noticed/acknowledged/addressed/remarked]" remains anywhere in the manuscript.
+- No mixed-metaphor construction involving "brittle"/darkness remains.
+- No romantic or emotional subtext was introduced by any of the three corrections; all three replacements are task/action-grounded.
+- No new repetitive shorthand was introduced in place of the removed ones.
+- Word count moved from ~2,430 to ~2,476 (net +46 words across four sentence-level edits — consistent with surgical correction, not a rewrite).
+
+### Unauthorized Changes
+
+None. Architecture, evidence chain, Chapter 10 payoff, mystery-thread state, Aurelia's arc, Aarav's arc, and relationship stage are all unchanged in substance.
+
+### Phase 6 Readiness
+
+**Chapter 15 is ready for Phase 6 Post-Correction Verification.**
