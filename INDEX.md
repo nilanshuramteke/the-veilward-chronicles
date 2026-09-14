@@ -305,6 +305,15 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [chapter-15-to-chapter-16-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/chapter-15-to-chapter-16-handoff.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/scene-breakdown.md)
+      - **CHAPTER_16/**
+        - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/README.md)
+        - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/canon-constraints.md)
+        - [chapter-15-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/chapter-15-continuity-input.md)
+        - [chapter-16-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/chapter-16-blueprint.md)
+        - [finalization-record.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/finalization-record.md)
+        - [chapter-16-to-chapter-17-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/chapter-16-to-chapter-17-handoff.md)
+        - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/drafting-brief.md)
+        - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/scene-breakdown.md)
     - **06_ENDING/**
       - [README.md](08_BOOKS/BOOK_01/06_ENDING/README.md)
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
