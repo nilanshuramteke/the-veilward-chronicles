@@ -455,6 +455,7 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
   - [README.md](13_REVIEWS_AND_AUDITS/README.md)
   - [book-01-final-pre-drafting-readiness-audit.md](13_REVIEWS_AND_AUDITS/book-01-final-pre-drafting-readiness-audit.md)
   - [book-01-mystery-architecture-audit.md](13_REVIEWS_AND_AUDITS/book-01-mystery-architecture-audit.md)
+  - [book-01-reader-sim.md](13_REVIEWS_AND_AUDITS/book-01-reader-sim.md)
   - [book-01-review.md](13_REVIEWS_AND_AUDITS/book-01-review.md)
   - [book-02-review.md](13_REVIEWS_AND_AUDITS/book-02-review.md)
   - [book-03-review.md](13_REVIEWS_AND_AUDITS/book-03-review.md)
