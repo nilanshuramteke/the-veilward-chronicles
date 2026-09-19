@@ -328,6 +328,8 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/canon-constraints.md)
         - [chapter-17-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/chapter-17-continuity-input.md)
         - [chapter-18-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/chapter-18-blueprint.md)
+        - [finalization-record.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/finalization-record.md)
+        - [chapter-18-to-chapter-19-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/chapter-18-to-chapter-19-handoff.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/scene-breakdown.md)
     - **06_ENDING/**
