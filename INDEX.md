@@ -332,6 +332,17 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [chapter-18-to-chapter-19-handoff.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/chapter-18-to-chapter-19-handoff.md)
         - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/drafting-brief.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/scene-breakdown.md)
+      - **CHAPTER_19/**
+        - [README.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/README.md)
+        - [canon-constraints.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/canon-constraints.md)
+        - [chapter-18-continuity-input.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/chapter-18-continuity-input.md)
+        - [chapter-19-blueprint.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/chapter-19-blueprint.md)
+        - [drafting-brief.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/drafting-brief.md)
+        - [phase-1-orientation.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/phase-1-orientation.md)
+        - [phase-2-scene-plan.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/phase-2-scene-plan.md)
+        - [phase-2.1-canon-integration.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/phase-2.1-canon-integration.md)
+        - [phase-3.1-drafting-calibration.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/phase-3.1-drafting-calibration.md)
+        - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/scene-breakdown.md)
     - **06_ENDING/**
       - [README.md](08_BOOKS/BOOK_01/06_ENDING/README.md)
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
