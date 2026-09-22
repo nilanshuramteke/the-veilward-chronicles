@@ -2,7 +2,7 @@
 
 Complete folder and file structure for **The Veilward Chronicles**. Every entry links to the corresponding file.
 
-*389 markdown files across 41 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
+*390 markdown files across 42 folders. Auto-generated — regenerate after adding or renaming files. (09_MANUSCRIPTS is gitignored and excluded from this count.)*
 
 - [README.md](README.md)
 
@@ -345,6 +345,8 @@ Complete folder and file structure for **The Veilward Chronicles**. Every entry 
         - [phase-2.1-canon-integration.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/phase-2.1-canon-integration.md)
         - [phase-3.1-drafting-calibration.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/phase-3.1-drafting-calibration.md)
         - [scene-breakdown.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/scene-breakdown.md)
+      - **CHAPTER_20/**
+        - [phase-1-orientation.md](08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_20/phase-1-orientation.md)
     - **06_ENDING/**
       - [README.md](08_BOOKS/BOOK_01/06_ENDING/README.md)
       - [bridge-to-book-two.md](08_BOOKS/BOOK_01/06_ENDING/bridge-to-book-two.md)
