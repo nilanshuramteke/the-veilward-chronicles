@@ -40,6 +40,11 @@ Use the canonical progression:
 4. Check the Revelation Matrix.
 5. If unresolved, flag the issue rather than inventing a reconciliation.
 
+## Finding Things
+- Before a continuity check or a chapter draft, consult `10_TRACKERS/entity-index.md`. It shows which chapters and docs mention each character, place, and artifact, and when each was last on the page. Open those files instead of searching the whole repository.
+- `INDEX.md` lists every file. Both indexes are auto-generated, so never edit them by hand.
+- When a new named entity enters the story, add it to `10_TRACKERS/entity-registry.md`.
+
 ## Separation of Responsibilities
 - `00_CORE/AI-INSTRUCTIONS.md`: AI behavior and canon safety.
 - `06_WRITING_GUIDE/`: prose craft and narrative execution.

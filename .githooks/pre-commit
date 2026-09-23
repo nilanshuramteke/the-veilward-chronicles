@@ -1,0 +1,7 @@
+#!/bin/sh
+# Regenerate INDEX.md and the entity index, and stage them with the commit.
+# Enable once per clone:  git config core.hooksPath .githooks
+
+root="$(git rev-parse --show-toplevel)"
+python "$root/scripts/refresh_indexes.py" >/dev/null || exit 0
+git add "$root/INDEX.md" "$root/10_TRACKERS/entity-index.md"
