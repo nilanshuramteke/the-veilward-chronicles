@@ -1,152 +1,105 @@
-# Book 01 Reader Simulation (Chapters 1-19)
+# Book 01 Reader Simulation (Chapters 1-20)
 
-**Scope:** First-time-reader simulation of Chapters 1-19, read in order with no access to the story bible, outlines or reviews. Read-only; no manuscript changes. Supersedes the earlier Ch 1-18 pass (still in git history, commit 939f843).
+**Scope:** First-time-reader simulation of Chapters 1-20, read in order from `09_MANUSCRIPTS/BOOK_01/` with no access to the story bible, outlines or reviews. Read-only; no manuscript changes. Supersedes the Ch 1-19 pass (still in git history).
 
 **Persona:** First-time reader of academy-set fantasy with a mystery spine (Scholomance / Six of Crows / Fourth Wing-adjacent). Gives a slow start about 3 chapters. Reads 1-2 chapters per sitting. Normal reader memory: keeps big beats and names, blurs small details. Does not re-read.
 
-**Caveat:** One simulated reader's response, not an audit. Its complaints are perception, which is what a sim measures, but several "stalled" threads may be intentional deferrals per the outline. Cross-check before revising. Scores also vary between runs (see the comparison below), so trust the shape of the curve and the repeated findings more than any single number.
+**Caveat:** One simulated reader's response, not an audit. Complaints are perception, and several "stalled" threads may be intentional deferrals per the outline. Scores vary between runs; trust the shape of the curve and repeated findings over any single number.
 
 ## Overall Read
 
-Reward channels working: social simulation (tracking Aurelia and Aarav as minds) and curiosity/prediction (what happened on the field). Aesthetic quality is quietly strong. Weakest channel is flow: long middle stretches read as "I appreciate this" rather than "I can't stop." It reads more like a literary mystery in a fantasy academy than a fantasy adventure with a mystery. A reader expecting Fourth Wing pace struggles in Ch 1-3; a reader expecting Scholomance worldbuilding is starved for it; a Six of Crows character-interplay reader is happiest.
+Strongest channels: social simulation (Aurelia, Aarav and Voss read as distinct minds) and curiosity/prediction (open questions are held across all 20 chapters). Weakest channel: flow. The prose is evenly pitched, so peaks have little to contrast against, and some chapters end with a feeling that nothing happened. Transportation is moderate: Veilward never becomes a place the reader could map. Reads like a literary mystery (closer to Tana French) in academy-fantasy clothes; the "academy" is thin (drills, rankings, one practicum, little wider student body). Curiosity is strong through Ch 12, then thins as the mystery widens without payoffs.
 
 ## Engagement Curve
 
 | Ch | Score | Reason |
 |----|-------|--------|
-| 1 | 5 | Strong voice and banter, but no story question; academy has no picture yet |
-| 2 | 5 | Same drill from Aarav's POV; setup for setup |
-| 3 | 6 | Comparative trial gives the rivalry physical stakes; first momentum; barely enough |
-| 4 | 8 | The breach; "Veilward had no name yet for the gap between them"; book wakes up |
-| 5 | 7 | Field closed, matching marks; feels like an investigation |
-| 6 | 7 | Statement reconciliation; overlapping details across strangers; null account |
-| 7 | 7 | Forced partnership; institutional friction; "kill each other or --" gossip adds texture |
-| 8 | 8 | Dev's voice as bait; asks for reassurance Dev never would; Seraphine's closing question |
-| 9 | 6 | Fence-post restitution; momentum from Ch 8 bleeds out; Voss's access offer re-energizes |
-| 10 | 7 | Archive; old record matches; 14-C refused |
-| 11 | 7 | Fourth marker stone; "Your hands aren't the reason" |
-| 12 | 7 | SERPENTFIRE; figure at archway; archive access lost |
-| 13 | 6 | Annex marks; Dev's lunch-window intel feels convenient; clue accumulation drag |
-| 14 | 7 | Aurelia dismantles the corridor theory ("It just says through"); Aarav's self-catch; door opens |
-| 15 | 7 | Dead-end room; "No point of ingress was established"; 14-C found; physically static |
-| 16 | 6 | Practicum, Voss's inherited-system admission; "Outer Dark -- dormant"; setup-heavy |
-| 17 | 7 | Rankings, Voss's offer, Aurelia stays; "I'm carrying it anyway" |
-| 18 | 8 | Mira ("why I'm being handled"); east-passage voice; Aarav watches Aurelia instead of listening |
-| 19 | 7 | Wall of names (Elyra, Varun); mark a fourth time; Aurelia confesses to Voss; quiet but earned |
+| 1 | 6 | Strong first line and interiority; morning practice and banter, no story question |
+| 2 | 6 | Aarav's POV is welcome; more of the same drill; Mira lands |
+| 3 | 6 | Five-mark trial gives rivalry physicality; patience running out |
+| 4 | 8 | The breach; cold, silence, voices; "That's a different thing from not happening" |
+| 5 | 7 | Matching marks; "I'm not doing it for you" |
+| 6 | 7 | Statement reconciliation; throat-cold overlaps; null account |
+| 7 | 7 | Voss is the best thing in it; near-friend gossip shows a wider school |
+| 8 | 8 | Dev's voice as bait; right shape, wrong soul; Aurelia pulls Aarav back |
+| 9 | 6 | Fence-post labor; setup for the archive; could be half the length |
+| 10 | 7 | Archive entry matches theirs; 14-C; Voss's refusal maddening in a good way |
+| 11 | 7 | Fourth stone; Aarav confirms "it's not you"; first real trust |
+| 12 | 7 | SERPENTFIRE; archway figure; third loss of archive access feels like a pattern |
+| 13 | 6 | Annex marks; discover-argue-wait pattern visible; first time reader disagrees with the characters |
+| 14 | 7 | "It just says *through*"; door opens; first real suspense |
+| 15 | 7 | Dead-end subversion; 14-C found but content near-repeats the Ch 10 entry |
+| 16 | 6 | "Outer Dark -- dormant" buried in classroom procedure |
+| 17 | 7 | Aurelia stays despite the ranking cost; "I'm carrying it anyway" |
+| 18 | 8 | Best chapter; the voice in the passage; "He had gone to her first. He hadn't decided to." |
+| 19 | 7 | Wall of names (ELYRA, VARUN); Aurelia's full disclosure; Voss scene now formulaic |
+| 20 | 7 | Honest, quiet close; "I called it caution, and it was control"; nothing plot-resolves |
 
-**Shape:** Slow open (5-6), hook lands Ch 4, second peak Ch 8, a 6-7 plateau through Ch 17, Ch 18 the highest point, Ch 19 a quieter landing. No chapter loses the reader outright; the plateau and the opening are the concern.
-
-**Versus the earlier Ch 1-18 pass:** Same shape, but this run scored the opening lower (5/5/6 vs 7/6/7) and Ch 18 lower (8 vs 10). Both runs agree on: Ch 4 and Ch 8 as peaks, Ch 9 as a dip, Ch 18 as the best late chapter, and the 7-8 (now 6-7) plateau in the middle.
+**Shape:** Slow ramp (1-3), hook at 4, plateau 5-12 with a peak at 8, sags at 13 and 16, recovery through 17-18, quiet landing at 19-20 that feels like the end of a first act rather than a climax.
 
 ## Per-Chapter Reactions (condensed)
 
-- **Ch 1 (5):** Aurelia's fire control works as characterization; banter is sharp enough to hold. No story question by the end; no picture of Veilward as a place or what is at stake. Continues on voice alone.
-- **Ch 2 (5):** Aarav's precision is clear; Mira and Dev feel lived-in ("You looked over at her the second you finished"). Two chapters of assessment with no engine. Would waver without a friend's recommendation.
-- **Ch 3 (6):** "Looked like hesitation from here" / "Looked like recklessness from here" is the dynamic in miniature. Three-chapter decision point: gives it one more.
-- **Ch 4 (8):** Cold, silence, voices; forty people experiencing one event differently; wards showing nothing. Reading to find out. Would continue without question.
-- **Ch 5 (7):** Field closure and statements feel procedurally real; matching post/shed marks are a good early clue; competing interpretations keep the mystery from settling.
-- **Ch 6 (7):** The method reveals itself: investigation through institutional procedure. Matching throat-cold and voice counts across strangers is compelling; the null account is an excellent anomaly.
-- **Ch 7 (7):** Voss's forced reconciliation is good institutional logic; gossip beat is the first sign others have opinions about the leads; filing-vs-reading argument is character work disguised as method.
-- **Ch 8 (8):** Dev-voice is the first real scare, made by specificity and one wrong thing. Aurelia pulling Aarav back is the first protective beat. Seraphine's question is a strong hook.
-- **Ch 9 (6):** Restitution-as-metaphor is obvious but skilled; "Two degrees more than you think" states the partnership thesis in action. Bleeds momentum after Ch 8.
-- **Ch 10 (7):** Archive research that works as narrative; old record matching theirs is satisfying; Voss's non-denial ("I know a great many things are restricted") builds tension.
-- **Ch 11 (7):** Quiet discovery; testing the stone against neutral points before validating Aurelia is the book's most trust-building moment.
-- **Ch 12 (7):** SERPENTFIRE has weight because of Voss's grab and stillness before anyone explains it. Archway figure raises a possible human antagonist. Losing access is painful but fair.
-- **Ch 13 (6):** Good texture, but the pattern is visible: discover, can't explain, argue about telling Voss, wait. How many times can they not tell Voss before it reads as a structural tic?
-- **Ch 14 (7):** Sharpest analytical scene; Aarav catching that he took Voss's conclusion instead of applying his own method is strong. Service door opening is a good physical beat.
-- **Ch 15 (7):** Dead end is a deliberate subversion and it works; 14-C in a forgotten room rather than a guarded vault fits a story about institutional forgetting. Also the most static chapter.
-- **Ch 16 (6):** Aurelia challenging the instructor is good; Voss's admission lands; "Outer Dark -- dormant" chills. Mostly setup for index work.
-- **Ch 17 (7):** Real personal stakes; Aurelia's choice is the emotional climax so far; "I'm carrying it anyway" is Aarav at his most vulnerable; fourth stone aging differently is a good anomaly; Dev's drainage complaint is good texture.
-- **Ch 18 (8):** Mira's confrontation is devastating and earned by her absence. East-passage voice, second occurrence, ties to the Dev-voice without over-explaining. Best character beat in the manuscript: Aarav choosing to watch Aurelia over the sound.
-- **Ch 19 (7):** Opens with Aurelia avoiding the east passage, aftermath shown through behavior. Wall of names is a strong image; erasure is not fire damage. Aurelia's confession to Voss (including the withheld marks) is her most honest moment; including the east-passage voice in her statement is a satisfying payoff.
+- **Ch 1 (6):** Aurelia's perfectionism shown through fire control; "You're gripping it" is the right needle. Two people warming up for something unnamed.
+- **Ch 2 (6):** "Clean was the standard Aarav held himself to. Not fast. Not impressive. Clean." Mira's "I didn't say it was a thing. I said you did it" earns a want for more of her.
+- **Ch 3 (6):** Wind-correction exchange well done; training-ground patience is spent.
+- **Ch 4 (8):** Creeping wrongness, not spectacle. The line that would sell the book to a friend.
+- **Ch 5 (7):** Matching marks give something concrete; proctor's "It's the one I've got" echoes institutional limits.
+- **Ch 6 (7):** Investigation-by-procedure is compelling; null account is the most interesting single detail so far; Aarav crediting Aurelia to Voss is quietly earned.
+- **Ch 7 (7):** "I'm assigning you a task with a boundary around it." "Kill each other or --" / "Don't finish that sentence."
+- **Ch 8 (7-8):** "Dev had never once, in Aarav's memory, actually wanted an answer." Best scene of the first half.
+- **Ch 9 (6):** Post-resetting metaphor a bit heavy; "Some of us don't get to just decide to be calm" echoes Ch 1.
+- **Ch 10 (7):** The Archivist is a good minor character; "Nobody files an incident under what it embarrassed them to admit." "You want the supplement. Those aren't the same request."
+- **Ch 11 (7):** Flame guttering at one corner is a concrete anomaly; the chalk mark is a small, perfect gesture.
+- **Ch 12 (7):** Voss's grab and stillness give SERPENTFIRE weight; telling Voss "For a while. Not after" has felt cost.
+- **Ch 13 (6):** Diminishing returns on "marks we can't explain"; the decision to withhold from Voss is the first time the reader disagrees with the leads.
+- **Ch 14 (7):** Reframes everything; going down, door opening, momentum.
+- **Ch 15 (7):** Dead end works; the investigator's note ("wasn't established" vs "wasn't there") is the only new nuance.
+- **Ch 16 (6):** Aurelia challenging the instructor is good; Voss tightening rules again feels like a treadmill.
+- **Ch 17 (7):** Strongest character decision in the book; fourth stone aging differently is a good new detail.
+- **Ch 18 (8):** Aurelia's account ("There were places where words would go") then Aarav hearing it while watching her face. Restraint at its best; Mira's "I'm asking you to notice that I noticed."
+- **Ch 19 (7):** Wall of names evocative; the reporting scene is read for outcome, not experience.
+- **Ch 20 (7):** Aarav's confession about the pages and the voice comparison; "Carrying it looked like nothing. It let me put off deciding without having to call it that." Aurelia's "I'm afraid of walking around inside something and not knowing there's a wall in it" is about trust, not the mystery. The Voss handoff (pages into his coat, pack lighter) works physically.
 
 ## Where a Real Reader Would Drop Off or Skim (ranked)
 
-1. **Ch 2 into Ch 3:** two assessment chapters, no narrative question. Highest risk.
-2. **Ch 13:** third iteration of discover-argue-wait; second half skimmable.
-3. **Ch 9:** fence repair right after Ch 8's scare and cliffhanger.
-4. **Ch 16:** two words of mystery in a chapter of procedure.
-5. **Ch 15:** two people in a small room reading old paper; payoff strong but middle is static.
+1. **Ch 1-3 as a block:** three chapters of drills and banter before a question exists. Ch 2 is where an unadvised reader closes the book.
+2. **Ch 13:** the investigation loop is visible; a new set of marks in old stone is more of the same.
+3. **Ch 16:** two words of mystery in a chapter of case-folder procedure.
+4. **Ch 9:** setup the reader knows is setup.
+5. **Ch 15:** the 14-C file near-repeats the Ch 10 entry after five chapters of holding the thread.
 
 ## Repetition / Sameness
 
-- **Investigation loop:** anomaly, test, argue, tell-Voss-or-not, wait, gain or lose access, next anomaly. Runs through Ch 5-6, 8-10, 11-12, 13-14, 16-17. Predictable by Ch 13.
-- **Ending tic:** quiet walk-away while reflecting on what they don't know. Ch 1, 2, 3, 5, 6, 7, 10, 12, 13, 15, 17, 18. Invisible furniture by Ch 10.
-- **"That's not the same as X" dialogue move:** "That's not evidence," "Closed and explained aren't the same thing," "Lost and left aren't either." Works early, mechanical by Ch 16.
-- **"Flatly" / "without heat":** default attribution for Aarav, Voss, Seraphine and Aurelia alike; the flatness becomes sameness.
-- **"Neither of them said anything":** the resting position after nearly every exchange.
-- **"He filed it / didn't examine that":** Aarav's mental filing cabinet is a reflex, not a trait, by mid-book.
-- **Voss conversation template:** states terms, student objects, Voss narrows the terms, student can't argue, dismissed. Ch 7, 9, 10, 12, 16, 17.
+- **Voss reporting scene:** Ch 7, 10, 12, 16, 19, 20. Find, argue, tell, Voss restricts or controls. Predictable by 19.
+- **"Tell Voss or not" debate:** Ch 5-6, 8, 12-13, 16, 18, 19; same terms each time.
+- **Access cycle:** grant, find, tighten (Ch 10, 12, 16). Two steps forward, one back.
+- **"That's not the same thing as X":** in nearly every chapter, from every speaker; 15+ times. **"That's not X. That's Y."** reframe likewise.
+- **Silence beats:** "Neither of them said anything," "didn't answer that / didn't argue with that": at least once per chapter, the default scene-ender.
+- **Emotional register:** both POVs guarded, analytical, controlled for 20 chapters; little joy, fear, anger or humor. Ch 18 works because it breaks this.
+- **Scene shape:** observe, find, argue, uneasy non-resolution, silent walk. Predictable from the first paragraph by Ch 12.
 
-## Mystery State at End of Ch 19 (reader's view)
+## Threads Held at End of Ch 20
 
-- **Believes:** Something on the field defeats the wards; it has happened before with the same signature. It did not enter from outside (the corridor theory was tested and failed; the old record says no ingress). It mimics known voices and gets them subtly wrong. The three-stroke mark predates the current students. SERPENTFIRE is connected but unexplained. "Outer Dark -- dormant" is an old classification. The wall of names is a memorial; Elyra and Varun survive inside a band of erasure that is not fire damage. Veilward's institutional memory is incomplete through neglect more than conspiracy.
-- **Clues that stuck:** Dev-voice (strongest single image), wards showing nothing, SERPENTFIRE (because of Voss's reaction), "Outer Dark -- dormant", Elyra and Varun (fresh), the accumulated three-stroke mark.
-- **Forgotten or unclear:** specific Ch 6 witness discrepancies; the null account (never mentioned again); the archway figure; the two annex marks (absorbed into the general pattern); how the old record differs from the current incident; what "Outer Dark" means.
-- **Earned:** the leads as partners who make each other more honest; institutional amnesia; something reaching for people and missing; Aurelia's move from competitive loner to choosing the investigation over her ranking; "not an intruder" as a real answer.
-- **Stalled:** SERPENTFIRE (since Ch 12); Outer Dark (dropped Ch 16, set aside by the characters in Ch 18); archway figure (7 chapters); no theory of what the phenomenon *is*, not even a wrong one; no antagonist or faction beyond bureaucracy.
+**Major:** what happened on the field (Ch 4, central, fully open); Serpentfire (Ch 12, nothing since); Outer Dark "dormant" (Ch 16, nothing since); archway figure (Ch 12, never revisited); three-line marks (Ch 5, 6, 8, 11, 13, 19; no explanation); Elyra and Varun (Ch 19); "Old Fire" / "Strife" on the wall (Ch 19); why wards keep failing to register these events; what Voss does with the 14-C pages; what Aarav tells Voss about the voice comparison.
 
-## Characters
+**Minor:** Aurelia's evaluation; the old classification system and why it was dropped; fourth stone dug up by the regrading crew and aging differently; whether Mira becomes ally, problem or casualty.
 
-- **Aurelia:** the stronger lead; fire control as emotional control; best moments analytical (Ch 14, 19) and emotional (Ch 17, 19). Tension often rests on her *not* doing things; the reader wants a decisive consequential *action*, not just decisive honesty.
-- **Aarav:** precision-as-character works early, mechanical later. Best when the method fails him (Ch 14, 17, 18). Wants more of the person underneath the method.
-- **Voss:** best supporting character; carefulness reads as genuine. Scenes are too predictable in structure.
-- **Mira:** one sharp beat in Ch 2, absent, then the most devastating scene in the book in Ch 18. Absence is part of why it works, but she needs at least one more mid-book appearance. Wants to know if the friendship survives.
-- **Dev:** distinct voice ("If this is a metaphor, nobody explained it to me"); exists in service of other characters' plots; never wants anything the reader tracks.
-- **Lyra:** Ch 3, then Ch 16-17 as ranking rival. No interiority or relationships; reads as "the other girl who's good at things."
-- **Seraphine:** competent; Ch 4, 8, 9, then vanishes.
-- **Elyra and Varun:** names on a wall; mystery weight, no character weight yet.
+**Status:** no major thread has had even a partial payoff. This is the primary pacing concern. Serpentfire and Outer Dark read as deliberate series-level mysteries; the archway figure reads as dropped; the marks are now costing more curiosity than they generate.
 
-## World (as an outsider)
+## Ch 20 as the Close of This Run
 
-Clear: academy with evaluations, rankings and terms; wards as monitoring; phoenix fire as innate; institutional hierarchy (students, proctors, instructors, Voss, wardens); restricted archive.
+Emotionally honest and thematically right: the culmination of the trust arc since Ch 1. But it is character resolution without plot movement. Ch 4 and 8 promised danger, Ch 10 and 12 revelations, Ch 18 escalation; Ch 20 discharges none of it. Fine as the end of a first act, but the reader needs a signal that payoffs are coming, and this run did not find one.
 
-Wanted but never got:
-- What Veilward is *for* and what students are trained to face; why third place matters.
-- The magic system: could not describe it to a friend after 19 chapters.
-- Anything beyond the walls: setting, other academies, government, tech level, era.
-- What the wards are and how they work: the foundation of the central mystery.
-- Daily life: food, clothing, culture, what the other students do. Reads as forty students and four adults.
+## Top 5 Reader-Facing Recommendations
 
-This is the sim's most significant gap: mystery and characters work, but the world barely exists, so the reader has no reason to want to attend the school.
+1. **Deliver one concrete mystery payoff by about Ch 15.** Not a full explanation; one fact that changes the shape of the question (what the Outer Dark is, what Serpentfire means, who Elyra and Varun were). 14-C was the natural place.
+2. **Break the investigation loop.** Have Voss bring them information once; have a discovery arrive through Mira or Dev; give one Voss scene where he gives instead of takes.
+3. **Diversify the emotional register.** Real fear, real humor, a loss of control that matters. Ch 18 is the proof of concept.
+4. **Widen or deepen the cast.** Mira has strong material and about five scenes; Dev is charming in small doses; the wider student body barely exists. One secondary-character subplot would break the two-person claustrophobia.
+5. **Compress Ch 1-3.** Ch 1 stands alone; Ch 2-3 could merge into one chapter that reaches the comparative assessment faster.
 
-## Promises: Kept vs. Deferred
+## Notes for Cross-Checking
 
-| Promise | Status |
-|---------|--------|
-| What happened on the field | Deferred; characterized (voices, cold, ward failure), cause unknown |
-| What the wards are missing | Deferred; confirmed prior occurrence, no mechanism |
-| SERPENTFIRE | Deferred; no context since Ch 12 |
-| Archway figure | Deferred; dropped since Ch 12 |
-| Three-stroke mark | Deferred; accumulation satisfying but needs payoff |
-| Rivals become partners | Kept; most complete arc |
-| Outer Dark | Deferred; two words and a status |
-| Elyra and Varun | Deferred; too new to judge |
-| Old classification system | Partly kept; "institutional forgetting" is thematically satisfying, narratively incomplete |
-| Ranking cost to Aurelia | Deferred; named, not yet felt (third place, 10 days to evaluation) |
-| Secrecy costs Aarav's friendships | Partly kept; Mira's Ch 18 scene, but one scene |
-| Phenomenon recurs and escalates | Kept (Ch 4, 8, 11, 18 x2) |
-| Is something getting in from outside | Kept, answered No (Ch 15) |
-
-## Chapter 19 Specifically
-
-- **After Ch 18:** grounded transition through behavior (avoiding the east passage), not reflection.
-- **Advances:** wall of names is a genuine new discovery (surviving names, fragments STRIFE and OLD FIRE); mark's fourth location accumulates weight but is starting to test patience; Aurelia's confession resolves the secrecy tension building since Ch 13.
-- **Ch 18 cliffhanger:** partly answered. The decision about Voss is resolved; the nature of the voices is not, and Ch 19 does not pretend otherwise. Reader knows the scope is bigger, nothing more about what it is.
-- **Concern:** Ch 19 consolidates rather than generates forward momentum. If it is the last chapter of the volume, the reader's final image is a character writing a statement at a desk, after three peaks (Ch 4, 8, 18) that are all behind them. The Aarav-Aurelia argument about whole wall vs. half follows the familiar method-disagreement pattern.
-
-## Top 5 Reader Wants (priority order)
-
-1. **Tell me what Veilward is for.** External stakes: what students train to face, what the wider world is, why rankings matter. The mystery alone cannot carry investment indefinitely.
-2. **Give me one real answer.** Nineteen chapters of accumulating questions with only "not an intruder" resolved. Resolve or meaningfully advance at least one of SERPENTFIRE, the mark, the voices, Outer Dark.
-3. **Raise the personal stakes.** Costs so far (ranking points, one friendship) are moderate. Something should go wrong that a better statement cannot fix: physical danger, institutional consequences with teeth, an irreversible choice.
-4. **Break the investigation loop.** An answer that changes what they are looking for, an event that forces action over analysis, or an ally or enemy who reshapes the dynamic.
-5. **Show Mira again.** She is the most potent supporting character; the reader wants the friendship's fate and her to matter to the plot.
-
-## Reconciliation with the Ch 1-18 Pass
-
-Findings both runs share (highest confidence): the Ch 2-3 opening risk, Ch 9 dip, the find-discuss-defer loop, the "neither said anything" and "didn't examine that" tics, stalled Serpentfire and archway figure, Mira underused mid-book, thin world and unexplained Phoenix/Serpent and ward mechanics, and Ch 18 as the strongest late chapter.
-
-New in this run: the "That's not the same as X" and "flatly / without heat" tics; the Voss conversation template; Dev and Lyra as wants-nothing characters; the call for one real answer and for raised stakes; and the Ch 19 read.
-
-Only in the earlier run: Ch 11-13 as a skim block (this run singles out Ch 13), the Phoenix vs. Serpent question stated explicitly, and the request to cut "didn't examine that" by about 40%.
+- Several findings (investigation loop, ending silence tic, "That's not the same as X", Voss template, thin Ch 1-3 opening) repeat from the Ch 1-19 pass, so they are stable signal rather than run noise.
+- New this run: sameness of emotional register; the archway figure appearing dropped; the 14-C file reading as a near-repeat of the Ch 10 entry; Ch 20 landing as a quiet act-close.
+- Scores: this run scored the opening 6/6/6 (previous 5/5/6), Ch 8 at 8 (previous 8), Ch 18 at 8 (same). The plateau sits at 6-7 in both.
