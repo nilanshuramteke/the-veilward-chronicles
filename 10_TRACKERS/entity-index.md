@@ -15,9 +15,9 @@ Where each named character, place, force, and artifact appears across the manusc
 | [Aurelia](#aurelia) | Characters | B1: 1–21 | B1 Ch 1 | B1 Ch 21 | 224 | 21 | 97 |
 | [Aarav](#aarav) | Characters | B1: 1–21 | B1 Ch 1 | B1 Ch 21 | 227 | 21 | 98 |
 | [Professor Elian Voss](#professor-elian-voss) | Characters | B1: 7, 9–21 | B1 Ch 7 | B1 Ch 21 | 111 | 15 | 10 |
-| [Warden Seraphine](#warden-seraphine) | Characters | B1: 4–5, 8–9, 12, 16, 21 | B1 Ch 4 | B1 Ch 21 | 27 | 13 | 7 |
+| [Warden Seraphine](#warden-seraphine) | Characters | B1: 4–5, 8–9, 12, 16, 21 | B1 Ch 4 | B1 Ch 21 | 26 | 13 | 7 |
 | [Dev](#dev) | Characters | B1: 2, 8–10, 13, 17, 20 | B1 Ch 2 | B1 Ch 20 | 30 | 16 | 9 |
-| [Mira](#mira) | Characters | B1: 2, 14, 18, 21 | B1 Ch 2 | B1 Ch 21 | 43 | 15 | 9 |
+| [Mira](#mira) | Characters | B1: 2, 14, 18, 21 | B1 Ch 2 | B1 Ch 21 | 42 | 15 | 9 |
 | [Lyra](#lyra) | Characters | B1: 3, 16–17, 19 | B1 Ch 3 | B1 Ch 19 | 17 | 12 | 7 |
 | [The Archivist](#the-archivist) | Characters | B1: 10, 15 | B1 Ch 10 | B1 Ch 15 | 5 | 4 | 2 |
 | [Elyra](#elyra) | Characters | B1: 19 | B1 Ch 19 | B1 Ch 19 | 2 | 17 | 68 |
@@ -76,7 +76,7 @@ Registered entities present in each manuscript chapter, most-mentioned first.
 | 18 | [The Echo Speaks Wrong](../09_MANUSCRIPTS/BOOK_01/chapter-18-the-echo-speaks-wrong.md) | Aurelia (27), Aarav (16), Mira (11), Professor Elian Voss (8), Veilward Academy (2), The Outer Dark (1) |
 | 19 | [The Names in Stone](../09_MANUSCRIPTS/BOOK_01/chapter-19-the-names-in-stone.md) | Aarav (18), Professor Elian Voss (15), Aurelia (9), Elyra (2), Varun (2), Lyra (1), Veilward Academy (1) |
 | 20 | [What We Do Alone](../09_MANUSCRIPTS/BOOK_01/chapter-20-what-we-do-alone.md) | Professor Elian Voss (19), Aarav (18), Aurelia (12), Dev (2), Veilward Academy (2), Training Grounds (1) |
-| 21 | [Come Back](../09_MANUSCRIPTS/BOOK_01/chapter-21-come-back.md) | Mira (29), Aurelia (25), Aarav (16), Warden Seraphine (8), Professor Elian Voss (1), Training Grounds (1) |
+| 21 | [Come Back](../09_MANUSCRIPTS/BOOK_01/chapter-21-come-back.md) | Mira (28), Aurelia (25), Aarav (16), Warden Seraphine (7), Professor Elian Voss (1), Training Grounds (1) |
 
 ---
 
@@ -115,7 +115,7 @@ Registered entities present in each manuscript chapter, most-mentioned first.
 
 - **Category:** Characters · **Matches:** `Seraphine`
 - **Profile:** [04_CHARACTERS/character-directory.md](../04_CHARACTERS/character-directory.md)
-- **Manuscript:** Book 1: [Ch 4](../09_MANUSCRIPTS/BOOK_01/chapter-04-the-impossible-breach.md) (4), [Ch 5](../09_MANUSCRIPTS/BOOK_01/chapter-05-no-way-in.md) (7), [Ch 8](../09_MANUSCRIPTS/BOOK_01/chapter-08-the-wrong-shadow.md) (1), [Ch 9](../09_MANUSCRIPTS/BOOK_01/chapter-09-rules-of-cooperation.md) (5), [Ch 12](../09_MANUSCRIPTS/BOOK_01/chapter-12-serpentfire.md) (1), [Ch 16](../09_MANUSCRIPTS/BOOK_01/chapter-16-dormant-things.md) (1), [Ch 21](../09_MANUSCRIPTS/BOOK_01/chapter-21-come-back.md) (8)
+- **Manuscript:** Book 1: [Ch 4](../09_MANUSCRIPTS/BOOK_01/chapter-04-the-impossible-breach.md) (4), [Ch 5](../09_MANUSCRIPTS/BOOK_01/chapter-05-no-way-in.md) (7), [Ch 8](../09_MANUSCRIPTS/BOOK_01/chapter-08-the-wrong-shadow.md) (1), [Ch 9](../09_MANUSCRIPTS/BOOK_01/chapter-09-rules-of-cooperation.md) (5), [Ch 12](../09_MANUSCRIPTS/BOOK_01/chapter-12-serpentfire.md) (1), [Ch 16](../09_MANUSCRIPTS/BOOK_01/chapter-16-dormant-things.md) (1), [Ch 21](../09_MANUSCRIPTS/BOOK_01/chapter-21-come-back.md) (7)
 - **Chapter packages:** [B1 Ch 4](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_04/README.md), [B1 Ch 5](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_05/README.md), [B1 Ch 6](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_06/README.md), [B1 Ch 8](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_08/README.md), [B1 Ch 9](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_09/README.md), [B1 Ch 10](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_10/README.md), [B1 Ch 11](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/README.md), [B1 Ch 12](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/README.md), [B1 Ch 14](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/README.md), [B1 Ch 15](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/README.md), [B1 Ch 16](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/README.md), [B1 Ch 19](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/README.md), [B1 Ch 21](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_21/README.md)
 - **Story bible:** 7 docs — 04_CHARACTERS 2, 08_BOOKS 2, 13_REVIEWS_AND_AUDITS 3
 - **Top references:** [warden-seraphine.md](../04_CHARACTERS/warden-seraphine.md) (6), [book-01-editorial-review.md](../13_REVIEWS_AND_AUDITS/book-01-editorial-review.md) (6), [character-directory.md](../04_CHARACTERS/character-directory.md) (1), [supporting-cast.md](../08_BOOKS/BOOK_01/03_CHARACTER_ARCS/supporting-cast.md) (1), [chapter-outline.md](../08_BOOKS/BOOK_01/05_CHAPTERS/chapter-outline.md) (1), [book-01-final-pre-drafting-readiness-audit.md](../13_REVIEWS_AND_AUDITS/book-01-final-pre-drafting-readiness-audit.md) (1), [book-01-review.md](../13_REVIEWS_AND_AUDITS/book-01-review.md) (1)
@@ -133,7 +133,7 @@ Registered entities present in each manuscript chapter, most-mentioned first.
 
 - **Category:** Characters · **Matches:** `Mira`
 - **Profile:** [04_CHARACTERS/mira.md](../04_CHARACTERS/mira.md)
-- **Manuscript:** Book 1: [Ch 2](../09_MANUSCRIPTS/BOOK_01/chapter-02-the-serpents-measure.md) (2), [Ch 14](../09_MANUSCRIPTS/BOOK_01/chapter-14-the-first-lie.md) (1), [Ch 18](../09_MANUSCRIPTS/BOOK_01/chapter-18-the-echo-speaks-wrong.md) (11), [Ch 21](../09_MANUSCRIPTS/BOOK_01/chapter-21-come-back.md) (29)
+- **Manuscript:** Book 1: [Ch 2](../09_MANUSCRIPTS/BOOK_01/chapter-02-the-serpents-measure.md) (2), [Ch 14](../09_MANUSCRIPTS/BOOK_01/chapter-14-the-first-lie.md) (1), [Ch 18](../09_MANUSCRIPTS/BOOK_01/chapter-18-the-echo-speaks-wrong.md) (11), [Ch 21](../09_MANUSCRIPTS/BOOK_01/chapter-21-come-back.md) (28)
 - **Chapter packages:** [B1 Ch 2](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_02/README.md), [B1 Ch 4](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_04/README.md), [B1 Ch 8](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_08/README.md), [B1 Ch 9](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_09/README.md), [B1 Ch 11](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_11/README.md), [B1 Ch 12](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_12/README.md), [B1 Ch 13](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_13/README.md), [B1 Ch 14](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_14/README.md), [B1 Ch 15](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_15/README.md), [B1 Ch 16](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_16/README.md), [B1 Ch 17](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_17/README.md), [B1 Ch 18](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_18/README.md), [B1 Ch 19](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_19/README.md), [B1 Ch 20](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_20/README.md), [B1 Ch 21](../08_BOOKS/BOOK_01/05_CHAPTERS/CHAPTER_21/README.md)
 - **Story bible:** 9 docs — 04_CHARACTERS 3, 08_BOOKS 2, 13_REVIEWS_AND_AUDITS 4
 - **Top references:** [book-01-review.md](../13_REVIEWS_AND_AUDITS/book-01-review.md) (11), [book-01-editorial-review.md](../13_REVIEWS_AND_AUDITS/book-01-editorial-review.md) (9), [mira.md](../04_CHARACTERS/mira.md) (6), [book-01-reader-sim.md](../13_REVIEWS_AND_AUDITS/book-01-reader-sim.md) (6), [book-01-final-pre-drafting-readiness-audit.md](../13_REVIEWS_AND_AUDITS/book-01-final-pre-drafting-readiness-audit.md) (3), [character-directory.md](../04_CHARACTERS/character-directory.md) (1), [dev.md](../04_CHARACTERS/dev.md) (1), [supporting-cast.md](../08_BOOKS/BOOK_01/03_CHARACTER_ARCS/supporting-cast.md) (1), [chapter-outline.md](../08_BOOKS/BOOK_01/05_CHAPTERS/chapter-outline.md) (1)
